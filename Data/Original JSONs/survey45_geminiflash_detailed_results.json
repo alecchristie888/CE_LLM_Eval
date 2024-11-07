@@ -1,0 +1,1634 @@
+{
+  "closed_book": [
+    {
+      "correct": 1,
+      "llm_response": "C",
+      "correct_answer": "C",
+      "question": "Which of the following outcomes is most likely to occur within one year of planting Sphagnum-dominated sods in a rewetted bog?"
+    },
+    {
+      "correct": 0,
+      "llm_response": "A",
+      "correct_answer": "B",
+      "question": "Which of the following outcomes is most likely when using a moving trailer suction hopper dredger for aggregate extraction compared to a static suction hopper dredger?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following outcomes is most likely to result from fitting a sievenet to shrimp/prawn trawl nets?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "In a marine ecosystem with declining populations of both commercial and non-commercial fish species, which combination of fishing gear modifications would likely be most effective in promoting sustainable fishing practices?"
+    },
+    {
+      "correct": 0,
+      "llm_response": "D",
+      "correct_answer": "B",
+      "question": "Which of the following outcomes is most likely when raising water levels to restore brackish/salt marshes from other land uses?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "A conservation manager aims to increase bee species richness in an area with power line infrastructure. Which of the following strategies should they prioritize?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following outcomes is most likely to result from sowing grassland seeds from a local source compared to using a commercial seed mix?"
+    },
+    {
+      "correct": 0,
+      "llm_response": "A",
+      "correct_answer": "B",
+      "question": "Which of the following outcomes is most likely to result from creating natural rocky reef topography on intertidal artificial structures?"
+    },
+    {
+      "correct": 0,
+      "llm_response": "C",
+      "correct_answer": "D",
+      "question": "Which of the following outcomes is most likely to occur when small swimthrough habitats are created on intertidal artificial structures?"
+    },
+    {
+      "correct": 0,
+      "llm_response": "C",
+      "correct_answer": "B",
+      "question": "Which of the following strategies is most likely to be effective in conserving Agassiz's desert tortoise populations?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "Which of the following is the most likely long-term ecological benefit of planting riparian buffer strips for reptile conservation?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "In the context of butterfly conservation on transmission lines, what is the relationship between herbicide spraying, mowing, and northern pearl crescent abundance?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "What is the most likely long-term impact of implementing wild bird cover on farmland plant communities?"
+    },
+    {
+      "correct": 0,
+      "llm_response": "C",
+      "correct_answer": "B",
+      "question": "Which of the following factors is most likely to enhance the effectiveness of conservation headlands for plant diversity?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "A tomato farmer wants to implement an integrated pest management approach that minimizes unnecessary insecticide use. Which of the following strategies would be most aligned with the conservation action described?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "Which of the following best describes the effectiveness of cleaner wrasse as a natural control agent for sea lice in salmon aquaculture?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "How might retaining crop residues impact water management in agricultural systems?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following outcomes is LEAST likely to result from implementing integrated aquaculture systems with fish farms?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following strategies would be most effective for increasing bat activity in logged areas?"
+    },
+    {
+      "correct": 0,
+      "llm_response": "A",
+      "correct_answer": "D",
+      "question": "Which of the following approaches is most likely to enhance the effectiveness of an electrical barrier in preventing the migration of invasive round gobies?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following best describes the overall effectiveness of legal protection for primate species under threat?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following modifications to outdoor lighting is most likely to reduce its impact on nocturnal insects?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "C",
+      "correct_answer": "C",
+      "question": "A salmon farm manager wants to implement the most effective strategy to control sea lice infestations. Based on the provided information, which of the following approaches should they prioritize?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following outcomes is most likely to result from combining increased livestock grazing with prescribed burning in shrubland ecosystems?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following is most likely to be a direct result of reducing livestock grazing intensity in forests?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "In the context of group-selection harvesting, which of the following statements best reflects the complexity of its ecological impacts?"
+    },
+    {
+      "correct": 0,
+      "llm_response": "B",
+      "correct_answer": "A",
+      "question": "Which of the following outcomes is most likely to result from presenting food in water for captive primates?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "How does the age of restored riparian plots generally affect bird populations?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "How might the effectiveness of primate habituation to human presence vary across different geographical regions and species?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "Which of the following outcomes is most likely to occur when reducing or stopping grazing in shrubland ecosystems?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "Which of the following outcomes is most likely to occur after diverting or replacing polluted water sources in peatlands?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "C",
+      "correct_answer": "C",
+      "question": "What is a potential challenge when implementing water source diversion as a conservation action in peatlands?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "C",
+      "correct_answer": "C",
+      "question": "Which of the following strategies is most likely to enhance the reproductive success of native bee species in agricultural landscapes?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "In the context of enhancing wild bee populations in agricultural landscapes, what potential limitation should be considered when implementing flower planting strategies?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "C",
+      "correct_answer": "C",
+      "question": "Which of the following outcomes is most likely to occur as a result of rescuing and releasing stranded marine mammals?"
+    },
+    {
+      "correct": 0,
+      "llm_response": "B",
+      "correct_answer": "A",
+      "question": "In the context of brackish/saline wetland restoration, what is the most likely outcome of applying a non-fungal root dip to smooth cordgrass (Spartina alterniflora) before planting?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "What is the most likely effect of adding carbon to soil after sowing seeds on the density of sown forb species in grassland restoration projects?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following outcomes is most likely to result from creating groove habitats on subtidal artificial structures?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "What factors can increase the efficiency of chemical treatments in controlling Asian clam populations?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "What is a potential trade-off to consider when modifying longline configuration from wire to nylon hook attachments?"
+    },
+    {
+      "correct": 0,
+      "llm_response": "B",
+      "correct_answer": "C",
+      "question": "Which of the following statements best reflects the current understanding of traditional orchard maintenance as a conservation strategy for birds?"
+    },
+    {
+      "correct": 0,
+      "llm_response": "D",
+      "correct_answer": "B",
+      "question": "Which of the following outcomes is most likely when implementing reduced tillage in arable fields for pest regulation?"
+    },
+    {
+      "correct": 0,
+      "llm_response": "C",
+      "correct_answer": "B",
+      "question": "Which of the following bait types would likely be most effective in reducing unwanted turtle catch in fishing nets?"
+    },
+    {
+      "correct": 0,
+      "llm_response": "B",
+      "correct_answer": "C",
+      "question": "What conclusion can be drawn about the behavioral response of various mammal species to ultrasonic warning devices mounted on vehicles?"
+    },
+    {
+      "correct": 0,
+      "llm_response": "B",
+      "correct_answer": "C",
+      "question": "In the context of human-wildlife conflict mitigation, which of the following strategies would likely be most effective in protecting livestock?"
+    }
+  ],
+  "oracle": [
+    {
+      "correct": 1,
+      "llm_response": "C",
+      "correct_answer": "C",
+      "question": "Which of the following outcomes is most likely to occur within one year of planting Sphagnum-dominated sods in a rewetted bog?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following outcomes is most likely when using a moving trailer suction hopper dredger for aggregate extraction compared to a static suction hopper dredger?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following outcomes is most likely to result from fitting a sievenet to shrimp/prawn trawl nets?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "In a marine ecosystem with declining populations of both commercial and non-commercial fish species, which combination of fishing gear modifications would likely be most effective in promoting sustainable fishing practices?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following outcomes is most likely when raising water levels to restore brackish/salt marshes from other land uses?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "A conservation manager aims to increase bee species richness in an area with power line infrastructure. Which of the following strategies should they prioritize?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following outcomes is most likely to result from sowing grassland seeds from a local source compared to using a commercial seed mix?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following outcomes is most likely to result from creating natural rocky reef topography on intertidal artificial structures?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "Which of the following outcomes is most likely to occur when small swimthrough habitats are created on intertidal artificial structures?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following strategies is most likely to be effective in conserving Agassiz's desert tortoise populations?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "Which of the following is the most likely long-term ecological benefit of planting riparian buffer strips for reptile conservation?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "In the context of butterfly conservation on transmission lines, what is the relationship between herbicide spraying, mowing, and northern pearl crescent abundance?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "What is the most likely long-term impact of implementing wild bird cover on farmland plant communities?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following factors is most likely to enhance the effectiveness of conservation headlands for plant diversity?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "A tomato farmer wants to implement an integrated pest management approach that minimizes unnecessary insecticide use. Which of the following strategies would be most aligned with the conservation action described?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "Which of the following best describes the effectiveness of cleaner wrasse as a natural control agent for sea lice in salmon aquaculture?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "How might retaining crop residues impact water management in agricultural systems?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following outcomes is LEAST likely to result from implementing integrated aquaculture systems with fish farms?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following strategies would be most effective for increasing bat activity in logged areas?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "Which of the following approaches is most likely to enhance the effectiveness of an electrical barrier in preventing the migration of invasive round gobies?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following best describes the overall effectiveness of legal protection for primate species under threat?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following modifications to outdoor lighting is most likely to reduce its impact on nocturnal insects?"
+    },
+    {
+      "correct": 0,
+      "llm_response": "A",
+      "correct_answer": "C",
+      "question": "A salmon farm manager wants to implement the most effective strategy to control sea lice infestations. Based on the provided information, which of the following approaches should they prioritize?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following outcomes is most likely to result from combining increased livestock grazing with prescribed burning in shrubland ecosystems?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following is most likely to be a direct result of reducing livestock grazing intensity in forests?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "In the context of group-selection harvesting, which of the following statements best reflects the complexity of its ecological impacts?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following outcomes is most likely to result from presenting food in water for captive primates?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "How does the age of restored riparian plots generally affect bird populations?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "How might the effectiveness of primate habituation to human presence vary across different geographical regions and species?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "Which of the following outcomes is most likely to occur when reducing or stopping grazing in shrubland ecosystems?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "Which of the following outcomes is most likely to occur after diverting or replacing polluted water sources in peatlands?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "C",
+      "correct_answer": "C",
+      "question": "What is a potential challenge when implementing water source diversion as a conservation action in peatlands?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "C",
+      "correct_answer": "C",
+      "question": "Which of the following strategies is most likely to enhance the reproductive success of native bee species in agricultural landscapes?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "In the context of enhancing wild bee populations in agricultural landscapes, what potential limitation should be considered when implementing flower planting strategies?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "C",
+      "correct_answer": "C",
+      "question": "Which of the following outcomes is most likely to occur as a result of rescuing and releasing stranded marine mammals?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "In the context of brackish/saline wetland restoration, what is the most likely outcome of applying a non-fungal root dip to smooth cordgrass (Spartina alterniflora) before planting?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "What is the most likely effect of adding carbon to soil after sowing seeds on the density of sown forb species in grassland restoration projects?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following outcomes is most likely to result from creating groove habitats on subtidal artificial structures?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "What factors can increase the efficiency of chemical treatments in controlling Asian clam populations?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "What is a potential trade-off to consider when modifying longline configuration from wire to nylon hook attachments?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "C",
+      "correct_answer": "C",
+      "question": "Which of the following statements best reflects the current understanding of traditional orchard maintenance as a conservation strategy for birds?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following outcomes is most likely when implementing reduced tillage in arable fields for pest regulation?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following bait types would likely be most effective in reducing unwanted turtle catch in fishing nets?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "C",
+      "correct_answer": "C",
+      "question": "What conclusion can be drawn about the behavioral response of various mammal species to ultrasonic warning devices mounted on vehicles?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "C",
+      "correct_answer": "C",
+      "question": "In the context of human-wildlife conflict mitigation, which of the following strategies would likely be most effective in protecting livestock?"
+    }
+  ],
+  "confused": [
+    {
+      "correct": 1,
+      "llm_response": "C",
+      "correct_answer": "C",
+      "question": "Which of the following outcomes is most likely to occur within one year of planting Sphagnum-dominated sods in a rewetted bog?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following outcomes is most likely when using a moving trailer suction hopper dredger for aggregate extraction compared to a static suction hopper dredger?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following outcomes is most likely to result from fitting a sievenet to shrimp/prawn trawl nets?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "In a marine ecosystem with declining populations of both commercial and non-commercial fish species, which combination of fishing gear modifications would likely be most effective in promoting sustainable fishing practices?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following outcomes is most likely when raising water levels to restore brackish/salt marshes from other land uses?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "A conservation manager aims to increase bee species richness in an area with power line infrastructure. Which of the following strategies should they prioritize?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following outcomes is most likely to result from sowing grassland seeds from a local source compared to using a commercial seed mix?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following outcomes is most likely to result from creating natural rocky reef topography on intertidal artificial structures?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "Which of the following outcomes is most likely to occur when small swimthrough habitats are created on intertidal artificial structures?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following strategies is most likely to be effective in conserving Agassiz's desert tortoise populations?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "Which of the following is the most likely long-term ecological benefit of planting riparian buffer strips for reptile conservation?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "In the context of butterfly conservation on transmission lines, what is the relationship between herbicide spraying, mowing, and northern pearl crescent abundance?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "What is the most likely long-term impact of implementing wild bird cover on farmland plant communities?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following factors is most likely to enhance the effectiveness of conservation headlands for plant diversity?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "A tomato farmer wants to implement an integrated pest management approach that minimizes unnecessary insecticide use. Which of the following strategies would be most aligned with the conservation action described?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "Which of the following best describes the effectiveness of cleaner wrasse as a natural control agent for sea lice in salmon aquaculture?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "How might retaining crop residues impact water management in agricultural systems?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following outcomes is LEAST likely to result from implementing integrated aquaculture systems with fish farms?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following strategies would be most effective for increasing bat activity in logged areas?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "Which of the following approaches is most likely to enhance the effectiveness of an electrical barrier in preventing the migration of invasive round gobies?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following best describes the overall effectiveness of legal protection for primate species under threat?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following modifications to outdoor lighting is most likely to reduce its impact on nocturnal insects?"
+    },
+    {
+      "correct": 0,
+      "llm_response": "A",
+      "correct_answer": "C",
+      "question": "A salmon farm manager wants to implement the most effective strategy to control sea lice infestations. Based on the provided information, which of the following approaches should they prioritize?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following outcomes is most likely to result from combining increased livestock grazing with prescribed burning in shrubland ecosystems?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following is most likely to be a direct result of reducing livestock grazing intensity in forests?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "In the context of group-selection harvesting, which of the following statements best reflects the complexity of its ecological impacts?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following outcomes is most likely to result from presenting food in water for captive primates?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "How does the age of restored riparian plots generally affect bird populations?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "How might the effectiveness of primate habituation to human presence vary across different geographical regions and species?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "Which of the following outcomes is most likely to occur when reducing or stopping grazing in shrubland ecosystems?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "Which of the following outcomes is most likely to occur after diverting or replacing polluted water sources in peatlands?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "C",
+      "correct_answer": "C",
+      "question": "What is a potential challenge when implementing water source diversion as a conservation action in peatlands?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "C",
+      "correct_answer": "C",
+      "question": "Which of the following strategies is most likely to enhance the reproductive success of native bee species in agricultural landscapes?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "In the context of enhancing wild bee populations in agricultural landscapes, what potential limitation should be considered when implementing flower planting strategies?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "C",
+      "correct_answer": "C",
+      "question": "Which of the following outcomes is most likely to occur as a result of rescuing and releasing stranded marine mammals?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "In the context of brackish/saline wetland restoration, what is the most likely outcome of applying a non-fungal root dip to smooth cordgrass (Spartina alterniflora) before planting?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "What is the most likely effect of adding carbon to soil after sowing seeds on the density of sown forb species in grassland restoration projects?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following outcomes is most likely to result from creating groove habitats on subtidal artificial structures?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "What factors can increase the efficiency of chemical treatments in controlling Asian clam populations?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "What is a potential trade-off to consider when modifying longline configuration from wire to nylon hook attachments?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "C",
+      "correct_answer": "C",
+      "question": "Which of the following statements best reflects the current understanding of traditional orchard maintenance as a conservation strategy for birds?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following outcomes is most likely when implementing reduced tillage in arable fields for pest regulation?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following bait types would likely be most effective in reducing unwanted turtle catch in fishing nets?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "C",
+      "correct_answer": "C",
+      "question": "What conclusion can be drawn about the behavioral response of various mammal species to ultrasonic warning devices mounted on vehicles?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "C",
+      "correct_answer": "C",
+      "question": "In the context of human-wildlife conflict mitigation, which of the following strategies would likely be most effective in protecting livestock?"
+    }
+  ],
+  "dense_retrieval": [
+    {
+      "correct": 1,
+      "llm_response": "C",
+      "correct_answer": "C",
+      "question": "Which of the following outcomes is most likely to occur within one year of planting Sphagnum-dominated sods in a rewetted bog?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following outcomes is most likely when using a moving trailer suction hopper dredger for aggregate extraction compared to a static suction hopper dredger?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following outcomes is most likely to result from fitting a sievenet to shrimp/prawn trawl nets?"
+    },
+    {
+      "correct": 0,
+      "llm_response": "B",
+      "correct_answer": "D",
+      "question": "In a marine ecosystem with declining populations of both commercial and non-commercial fish species, which combination of fishing gear modifications would likely be most effective in promoting sustainable fishing practices?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following outcomes is most likely when raising water levels to restore brackish/salt marshes from other land uses?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "A conservation manager aims to increase bee species richness in an area with power line infrastructure. Which of the following strategies should they prioritize?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following outcomes is most likely to result from sowing grassland seeds from a local source compared to using a commercial seed mix?"
+    },
+    {
+      "correct": 0,
+      "llm_response": "D",
+      "correct_answer": "B",
+      "question": "Which of the following outcomes is most likely to result from creating natural rocky reef topography on intertidal artificial structures?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "Which of the following outcomes is most likely to occur when small swimthrough habitats are created on intertidal artificial structures?"
+    },
+    {
+      "correct": 0,
+      "llm_response": "C",
+      "correct_answer": "B",
+      "question": "Which of the following strategies is most likely to be effective in conserving Agassiz's desert tortoise populations?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "Which of the following is the most likely long-term ecological benefit of planting riparian buffer strips for reptile conservation?"
+    },
+    {
+      "correct": 0,
+      "llm_response": "C",
+      "correct_answer": "A",
+      "question": "In the context of butterfly conservation on transmission lines, what is the relationship between herbicide spraying, mowing, and northern pearl crescent abundance?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "What is the most likely long-term impact of implementing wild bird cover on farmland plant communities?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following factors is most likely to enhance the effectiveness of conservation headlands for plant diversity?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "A tomato farmer wants to implement an integrated pest management approach that minimizes unnecessary insecticide use. Which of the following strategies would be most aligned with the conservation action described?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "Which of the following best describes the effectiveness of cleaner wrasse as a natural control agent for sea lice in salmon aquaculture?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "How might retaining crop residues impact water management in agricultural systems?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following outcomes is LEAST likely to result from implementing integrated aquaculture systems with fish farms?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following strategies would be most effective for increasing bat activity in logged areas?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "Which of the following approaches is most likely to enhance the effectiveness of an electrical barrier in preventing the migration of invasive round gobies?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following best describes the overall effectiveness of legal protection for primate species under threat?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following modifications to outdoor lighting is most likely to reduce its impact on nocturnal insects?"
+    },
+    {
+      "correct": 0,
+      "llm_response": "D",
+      "correct_answer": "C",
+      "question": "A salmon farm manager wants to implement the most effective strategy to control sea lice infestations. Based on the provided information, which of the following approaches should they prioritize?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following outcomes is most likely to result from combining increased livestock grazing with prescribed burning in shrubland ecosystems?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following is most likely to be a direct result of reducing livestock grazing intensity in forests?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "In the context of group-selection harvesting, which of the following statements best reflects the complexity of its ecological impacts?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following outcomes is most likely to result from presenting food in water for captive primates?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "How does the age of restored riparian plots generally affect bird populations?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "How might the effectiveness of primate habituation to human presence vary across different geographical regions and species?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "Which of the following outcomes is most likely to occur when reducing or stopping grazing in shrubland ecosystems?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "Which of the following outcomes is most likely to occur after diverting or replacing polluted water sources in peatlands?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "C",
+      "correct_answer": "C",
+      "question": "What is a potential challenge when implementing water source diversion as a conservation action in peatlands?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "C",
+      "correct_answer": "C",
+      "question": "Which of the following strategies is most likely to enhance the reproductive success of native bee species in agricultural landscapes?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "In the context of enhancing wild bee populations in agricultural landscapes, what potential limitation should be considered when implementing flower planting strategies?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "C",
+      "correct_answer": "C",
+      "question": "Which of the following outcomes is most likely to occur as a result of rescuing and releasing stranded marine mammals?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "In the context of brackish/saline wetland restoration, what is the most likely outcome of applying a non-fungal root dip to smooth cordgrass (Spartina alterniflora) before planting?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "What is the most likely effect of adding carbon to soil after sowing seeds on the density of sown forb species in grassland restoration projects?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following outcomes is most likely to result from creating groove habitats on subtidal artificial structures?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "What factors can increase the efficiency of chemical treatments in controlling Asian clam populations?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "What is a potential trade-off to consider when modifying longline configuration from wire to nylon hook attachments?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "C",
+      "correct_answer": "C",
+      "question": "Which of the following statements best reflects the current understanding of traditional orchard maintenance as a conservation strategy for birds?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following outcomes is most likely when implementing reduced tillage in arable fields for pest regulation?"
+    },
+    {
+      "correct": 0,
+      "llm_response": "C",
+      "correct_answer": "B",
+      "question": "Which of the following bait types would likely be most effective in reducing unwanted turtle catch in fishing nets?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "C",
+      "correct_answer": "C",
+      "question": "What conclusion can be drawn about the behavioral response of various mammal species to ultrasonic warning devices mounted on vehicles?"
+    },
+    {
+      "correct": 0,
+      "llm_response": "D",
+      "correct_answer": "C",
+      "question": "In the context of human-wildlife conflict mitigation, which of the following strategies would likely be most effective in protecting livestock?"
+    }
+  ],
+  "sparse_retrieval": [
+    {
+      "correct": 0,
+      "llm_response": "D",
+      "correct_answer": "C",
+      "question": "Which of the following outcomes is most likely to occur within one year of planting Sphagnum-dominated sods in a rewetted bog?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following outcomes is most likely when using a moving trailer suction hopper dredger for aggregate extraction compared to a static suction hopper dredger?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following outcomes is most likely to result from fitting a sievenet to shrimp/prawn trawl nets?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "In a marine ecosystem with declining populations of both commercial and non-commercial fish species, which combination of fishing gear modifications would likely be most effective in promoting sustainable fishing practices?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following outcomes is most likely when raising water levels to restore brackish/salt marshes from other land uses?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "A conservation manager aims to increase bee species richness in an area with power line infrastructure. Which of the following strategies should they prioritize?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following outcomes is most likely to result from sowing grassland seeds from a local source compared to using a commercial seed mix?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following outcomes is most likely to result from creating natural rocky reef topography on intertidal artificial structures?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "Which of the following outcomes is most likely to occur when small swimthrough habitats are created on intertidal artificial structures?"
+    },
+    {
+      "correct": 0,
+      "llm_response": "C",
+      "correct_answer": "B",
+      "question": "Which of the following strategies is most likely to be effective in conserving Agassiz's desert tortoise populations?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "Which of the following is the most likely long-term ecological benefit of planting riparian buffer strips for reptile conservation?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "In the context of butterfly conservation on transmission lines, what is the relationship between herbicide spraying, mowing, and northern pearl crescent abundance?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "What is the most likely long-term impact of implementing wild bird cover on farmland plant communities?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following factors is most likely to enhance the effectiveness of conservation headlands for plant diversity?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "A tomato farmer wants to implement an integrated pest management approach that minimizes unnecessary insecticide use. Which of the following strategies would be most aligned with the conservation action described?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "Which of the following best describes the effectiveness of cleaner wrasse as a natural control agent for sea lice in salmon aquaculture?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "How might retaining crop residues impact water management in agricultural systems?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following outcomes is LEAST likely to result from implementing integrated aquaculture systems with fish farms?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following strategies would be most effective for increasing bat activity in logged areas?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "Which of the following approaches is most likely to enhance the effectiveness of an electrical barrier in preventing the migration of invasive round gobies?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following best describes the overall effectiveness of legal protection for primate species under threat?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following modifications to outdoor lighting is most likely to reduce its impact on nocturnal insects?"
+    },
+    {
+      "correct": 0,
+      "llm_response": "D",
+      "correct_answer": "C",
+      "question": "A salmon farm manager wants to implement the most effective strategy to control sea lice infestations. Based on the provided information, which of the following approaches should they prioritize?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following outcomes is most likely to result from combining increased livestock grazing with prescribed burning in shrubland ecosystems?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following is most likely to be a direct result of reducing livestock grazing intensity in forests?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "In the context of group-selection harvesting, which of the following statements best reflects the complexity of its ecological impacts?"
+    },
+    {
+      "correct": 0,
+      "llm_response": "B",
+      "correct_answer": "A",
+      "question": "Which of the following outcomes is most likely to result from presenting food in water for captive primates?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "How does the age of restored riparian plots generally affect bird populations?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "How might the effectiveness of primate habituation to human presence vary across different geographical regions and species?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "Which of the following outcomes is most likely to occur when reducing or stopping grazing in shrubland ecosystems?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "Which of the following outcomes is most likely to occur after diverting or replacing polluted water sources in peatlands?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "C",
+      "correct_answer": "C",
+      "question": "What is a potential challenge when implementing water source diversion as a conservation action in peatlands?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "C",
+      "correct_answer": "C",
+      "question": "Which of the following strategies is most likely to enhance the reproductive success of native bee species in agricultural landscapes?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "In the context of enhancing wild bee populations in agricultural landscapes, what potential limitation should be considered when implementing flower planting strategies?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "C",
+      "correct_answer": "C",
+      "question": "Which of the following outcomes is most likely to occur as a result of rescuing and releasing stranded marine mammals?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "In the context of brackish/saline wetland restoration, what is the most likely outcome of applying a non-fungal root dip to smooth cordgrass (Spartina alterniflora) before planting?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "What is the most likely effect of adding carbon to soil after sowing seeds on the density of sown forb species in grassland restoration projects?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following outcomes is most likely to result from creating groove habitats on subtidal artificial structures?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "What factors can increase the efficiency of chemical treatments in controlling Asian clam populations?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "What is a potential trade-off to consider when modifying longline configuration from wire to nylon hook attachments?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "C",
+      "correct_answer": "C",
+      "question": "Which of the following statements best reflects the current understanding of traditional orchard maintenance as a conservation strategy for birds?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following outcomes is most likely when implementing reduced tillage in arable fields for pest regulation?"
+    },
+    {
+      "correct": 0,
+      "llm_response": "C",
+      "correct_answer": "B",
+      "question": "Which of the following bait types would likely be most effective in reducing unwanted turtle catch in fishing nets?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "C",
+      "correct_answer": "C",
+      "question": "What conclusion can be drawn about the behavioral response of various mammal species to ultrasonic warning devices mounted on vehicles?"
+    },
+    {
+      "correct": 0,
+      "llm_response": "B",
+      "correct_answer": "C",
+      "question": "In the context of human-wildlife conflict mitigation, which of the following strategies would likely be most effective in protecting livestock?"
+    }
+  ],
+  "hybrid_retrieval": [
+    {
+      "correct": 1,
+      "llm_response": "C",
+      "correct_answer": "C",
+      "question": "Which of the following outcomes is most likely to occur within one year of planting Sphagnum-dominated sods in a rewetted bog?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following outcomes is most likely when using a moving trailer suction hopper dredger for aggregate extraction compared to a static suction hopper dredger?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following outcomes is most likely to result from fitting a sievenet to shrimp/prawn trawl nets?"
+    },
+    {
+      "correct": 0,
+      "llm_response": "B",
+      "correct_answer": "D",
+      "question": "In a marine ecosystem with declining populations of both commercial and non-commercial fish species, which combination of fishing gear modifications would likely be most effective in promoting sustainable fishing practices?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following outcomes is most likely when raising water levels to restore brackish/salt marshes from other land uses?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "A conservation manager aims to increase bee species richness in an area with power line infrastructure. Which of the following strategies should they prioritize?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following outcomes is most likely to result from sowing grassland seeds from a local source compared to using a commercial seed mix?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following outcomes is most likely to result from creating natural rocky reef topography on intertidal artificial structures?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "Which of the following outcomes is most likely to occur when small swimthrough habitats are created on intertidal artificial structures?"
+    },
+    {
+      "correct": 0,
+      "llm_response": "C",
+      "correct_answer": "B",
+      "question": "Which of the following strategies is most likely to be effective in conserving Agassiz's desert tortoise populations?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "Which of the following is the most likely long-term ecological benefit of planting riparian buffer strips for reptile conservation?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "In the context of butterfly conservation on transmission lines, what is the relationship between herbicide spraying, mowing, and northern pearl crescent abundance?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "What is the most likely long-term impact of implementing wild bird cover on farmland plant communities?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following factors is most likely to enhance the effectiveness of conservation headlands for plant diversity?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "A tomato farmer wants to implement an integrated pest management approach that minimizes unnecessary insecticide use. Which of the following strategies would be most aligned with the conservation action described?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "Which of the following best describes the effectiveness of cleaner wrasse as a natural control agent for sea lice in salmon aquaculture?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "How might retaining crop residues impact water management in agricultural systems?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following outcomes is LEAST likely to result from implementing integrated aquaculture systems with fish farms?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following strategies would be most effective for increasing bat activity in logged areas?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "Which of the following approaches is most likely to enhance the effectiveness of an electrical barrier in preventing the migration of invasive round gobies?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following best describes the overall effectiveness of legal protection for primate species under threat?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following modifications to outdoor lighting is most likely to reduce its impact on nocturnal insects?"
+    },
+    {
+      "correct": 0,
+      "llm_response": "D",
+      "correct_answer": "C",
+      "question": "A salmon farm manager wants to implement the most effective strategy to control sea lice infestations. Based on the provided information, which of the following approaches should they prioritize?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following outcomes is most likely to result from combining increased livestock grazing with prescribed burning in shrubland ecosystems?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following is most likely to be a direct result of reducing livestock grazing intensity in forests?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "In the context of group-selection harvesting, which of the following statements best reflects the complexity of its ecological impacts?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "Which of the following outcomes is most likely to result from presenting food in water for captive primates?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "How does the age of restored riparian plots generally affect bird populations?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "How might the effectiveness of primate habituation to human presence vary across different geographical regions and species?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "Which of the following outcomes is most likely to occur when reducing or stopping grazing in shrubland ecosystems?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "D",
+      "correct_answer": "D",
+      "question": "Which of the following outcomes is most likely to occur after diverting or replacing polluted water sources in peatlands?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "C",
+      "correct_answer": "C",
+      "question": "What is a potential challenge when implementing water source diversion as a conservation action in peatlands?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "C",
+      "correct_answer": "C",
+      "question": "Which of the following strategies is most likely to enhance the reproductive success of native bee species in agricultural landscapes?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "In the context of enhancing wild bee populations in agricultural landscapes, what potential limitation should be considered when implementing flower planting strategies?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "C",
+      "correct_answer": "C",
+      "question": "Which of the following outcomes is most likely to occur as a result of rescuing and releasing stranded marine mammals?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "In the context of brackish/saline wetland restoration, what is the most likely outcome of applying a non-fungal root dip to smooth cordgrass (Spartina alterniflora) before planting?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "What is the most likely effect of adding carbon to soil after sowing seeds on the density of sown forb species in grassland restoration projects?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following outcomes is most likely to result from creating groove habitats on subtidal artificial structures?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "What factors can increase the efficiency of chemical treatments in controlling Asian clam populations?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "A",
+      "correct_answer": "A",
+      "question": "What is a potential trade-off to consider when modifying longline configuration from wire to nylon hook attachments?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "C",
+      "correct_answer": "C",
+      "question": "Which of the following statements best reflects the current understanding of traditional orchard maintenance as a conservation strategy for birds?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following outcomes is most likely when implementing reduced tillage in arable fields for pest regulation?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "B",
+      "correct_answer": "B",
+      "question": "Which of the following bait types would likely be most effective in reducing unwanted turtle catch in fishing nets?"
+    },
+    {
+      "correct": 1,
+      "llm_response": "C",
+      "correct_answer": "C",
+      "question": "What conclusion can be drawn about the behavioral response of various mammal species to ultrasonic warning devices mounted on vehicles?"
+    },
+    {
+      "correct": 0,
+      "llm_response": "B",
+      "correct_answer": "C",
+      "question": "In the context of human-wildlife conflict mitigation, which of the following strategies would likely be most effective in protecting livestock?"
+    }
+  ]
+}

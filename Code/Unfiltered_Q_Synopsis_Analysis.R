@@ -11,7 +11,7 @@ library(emmeans)
 ############################## LLM performance on questions across synopses ##################################################
 ##############################################################################################################################
 
-synopdata <- fread(choose.files())  #question_data.csv
+synopdata <- fread(choose.files())  #synopsesdata.csv
 
 synopdatahr <- synopdata
 binarydata <- list()
@@ -30,12 +30,10 @@ mod1.1 <- glm(Binary ~ Model*Synopsis+Model*Category, data = synopdatahrbinary,f
 summary(mod1.1)
 str(summary(mod1))
 
-
-
-simulationOutput <- simulateResiduals(fittedModel = mod1, plot = F)
-testDispersion(simulationOutput)
-residuals(simulationOutput)
-plot(simulationOutput)
+# simulationOutput <- simulateResiduals(fittedModel = mod1, plot = F)
+# testDispersion(simulationOutput)
+# residuals(simulationOutput)
+# plot(simulationOutput)
 
 str(summary(mod1))
 
@@ -98,7 +96,7 @@ allcombs <- data.table(CJ(Model=unique(synopdatahrbinary$Model),
 allcombs$est <- predict(mod2,allcombs,type="response")
 allcombs$se <- predict(mod2,allcombs,type="response",se.fit = TRUE)[[2]]
 
-critval <- 1.96 ## approx 95% CIcritval <- 1.96 ## approx 95% CTRUEI
+critval <- 1.96 ## approx 95% CIcritval <- 1.96 ## approx 95% CI
 allcombs$upr <- allcombs$est + (critval * allcombs$se)
 allcombs$lwr <- allcombs$est - (critval * allcombs$se)
 
@@ -213,12 +211,15 @@ str(summary(mod2))
 ############################## LLM performance on retrieval across synopses ##################################################
 ##############################################################################################################################
 
-retr_data <- fread(choose.files()) #retrieval_data.csv
+retr_data <- fread(choose.files()) #llm_synopses_retrieval_info.csv
 
 head(retr_data)
 
+#create list of unique questions and their synopses
 uniq.Qs <- unique(retr_data[,list(Question,`Source Synopsis`)])
+retr_data$Retrieval_strategy <- retr_data$Method
 
+#Adding in data on whether the correct source was retrieved
 correcthy <- NA
 for(i in 1:nrow(uniq.Qs)){
   sourcenum <- unique(retr_data[Retrieval_strategy=="Hybrid"&Question == uniq.Qs[i,1],`Source No.`])
@@ -277,10 +278,10 @@ retrievaldata <- data.table(Question=uniq.Qs$Question,Synopsis=uniq.Qs$`Source S
 retr_mod1 <- glm(Binary ~ Strategy*Synopsis, data = retrievaldata,family="binomial")
 summary(retr_mod1)
 
-simulationOutput <- simulateResiduals(fittedModel = retr_mod1, plot = F)
-testDispersion(simulationOutput)
-residuals(simulationOutput)
-plot(simulationOutput)
+# simulationOutput <- simulateResiduals(fittedModel = retr_mod1, plot = F)
+# testDispersion(simulationOutput)
+# residuals(simulationOutput)
+# plot(simulationOutput)
 
 retr_mod2 <- glm(Binary ~ Strategy+Synopsis, data = retrievaldata,family="binomial")
 summary(mod2)
@@ -293,6 +294,7 @@ retr_modsum2$term <- dimnames(summary(retr_mod2)$coefficients)[1]
 
 retr_mod3 <- glm(Binary ~ Strategy, data = retrievaldata,family="binomial")
 summary(retr_mod3)
+
 retr_mod4 <- glm(Binary ~ Synopsis, data = retrievaldata,family="binomial")
 summary(retr_mod4)
 
@@ -317,7 +319,7 @@ retr_allcombs <- data.table(CJ(Strategy=unique(retrievaldata$Strategy),
 retr_allcombs$est <- predict(retr_mod2,retr_allcombs,type="response")
 retr_allcombs$se <- predict(retr_mod2,retr_allcombs,type="response",se.fit = TRUE)[[2]]
 
-critval <- 1.96 ## approx 95% CIcritval <- 1.96 ## approx 95% CTRUEI
+critval <- 1.96 ## approx 95% CIcritval <- 1.96 ## approx 95% CI
 retr_allcombs$upr <- retr_allcombs$est + (critval * retr_allcombs$se)
 retr_allcombs$lwr <- retr_allcombs$est - (critval * retr_allcombs$se)
 
@@ -351,9 +353,13 @@ retr_ordersynnames <- retr_ordersyn[rev(order(mean)),Synopsis]
 
 retr_allcombs$Synopsis <- factor(retr_allcombs$Synopsis,levels=retr_ordersynnames)
 retr_allcombs <- retr_allcombs[order(Synopsis)]
+
+retr_allcombs$Strategy <- factor(retr_allcombs$Strategy,levels=c("Hybrid", "Dense","Sparse"))
 length(unique(retr_allcombs$Synopsis))
 retr_allcombs_first <- retr_allcombs[1:36,]
 retr_allcombs_sec <- retr_allcombs[37:72,]
+
+retrievaldata
 
 ggplot(aes(y=est,x=Strategy,colour=Strategy),data=retr_allcombs_first)+
   geom_point()+
@@ -379,16 +385,13 @@ ggplot(aes(y=est,x=Strategy,colour=Strategy),data=retr_allcombs_sec)+
 
 EMMs_strat <- emmeans(retr_mod2,~Strategy,type="response")
 pairs(EMMs_strat)
-write.csv(pairs(EMMs_strat), "retr_Pairwisecomp_strat.csv")
+#write.csv(pairs(EMMs_strat), "retr_Pairwisecomp_strat.csv")
 
 EMMs_syn <- emmeans(retr_mod2,~Synopsis,type="response")
 pairs(EMMs_syn)
-write.csv(pairs(EMMs_syn), "retr_Pairwisecomp_synopses.csv")
+#write.csv(pairs(EMMs_syn), "retr_Pairwisecomp_synopses.csv")
 
 str(Anova(retr_mod2))
 str(summary(retr_mod2))
-write.csv(Anova(retr_mod2), "retr_Anova_mod2.csv")
-write.csv(summary(retr_mod2)$coefficients, "retr_summary_mod2.csv")
-
-
-
+#write.csv(Anova(retr_mod2), "retr_Anova_mod2.csv")
+#write.csv(summary(retr_mod2)$coefficients, "retr_summary_mod2.csv")

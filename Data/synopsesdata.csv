@@ -1,0 +1,1441 @@
+Model,Category,Synopsis,Correct,Total,Proportion_Correct
+claude_sonnet,closed_book,Amphibian Conservation,69,91,0.758241758
+claude_sonnet,closed_book,Bat Conservation,32,46,0.695652174
+claude_sonnet,closed_book,Bee Conservation,28,38,0.736842105
+claude_sonnet,closed_book,Biodiversity of Marine Artificial Structures,29,35,0.828571429
+claude_sonnet,closed_book,Bird Conservation,191,321,0.595015576
+claude_sonnet,closed_book,Butterfly and Moth Conservation,80,115,0.695652174
+claude_sonnet,closed_book,Control of Freshwater Invasive Species,35,50,0.7
+claude_sonnet,closed_book,Farmland Conservation,53,73,0.726027397
+claude_sonnet,closed_book,Forest Conservation,30,50,0.6
+claude_sonnet,closed_book,Grassland Conservation,18,30,0.6
+claude_sonnet,closed_book,Management of Captive Animals,22,34,0.647058824
+claude_sonnet,closed_book,Marine Fish Conservation,50,71,0.704225352
+claude_sonnet,closed_book,Marine and Freshwater Mammal Conservation,32,39,0.820512821
+claude_sonnet,closed_book,Marsh and Swamp Conservation,105,181,0.580110497
+claude_sonnet,closed_book,Mediterranean Farmland,41,57,0.719298246
+claude_sonnet,closed_book,Natural Pest Control,13,15,0.866666667
+claude_sonnet,closed_book,Peatland Conservation,35,62,0.564516129
+claude_sonnet,closed_book,Primate Conservation,41,57,0.719298246
+claude_sonnet,closed_book,Reptile Conservation,93,155,0.6
+claude_sonnet,closed_book,Shrubland and Heathland Conservation,24,43,0.558139535
+claude_sonnet,closed_book,Soil Fertility,12,19,0.631578947
+claude_sonnet,closed_book,Subtidal Benthic Invertebrate Conservation,53,79,0.670886076
+claude_sonnet,closed_book,Sustainable Aquaculture,10,18,0.555555556
+claude_sonnet,closed_book,Terrestrial Mammal Conservation,125,188,0.664893617
+claude_sonnet,confused,Amphibian Conservation,83,91,0.912087912
+claude_sonnet,confused,Bat Conservation,43,46,0.934782609
+claude_sonnet,confused,Bee Conservation,37,38,0.973684211
+claude_sonnet,confused,Biodiversity of Marine Artificial Structures,34,35,0.971428571
+claude_sonnet,confused,Bird Conservation,282,321,0.878504673
+claude_sonnet,confused,Butterfly and Moth Conservation,103,115,0.895652174
+claude_sonnet,confused,Control of Freshwater Invasive Species,47,50,0.94
+claude_sonnet,confused,Farmland Conservation,69,73,0.94520548
+claude_sonnet,confused,Forest Conservation,46,50,0.92
+claude_sonnet,confused,Grassland Conservation,28,30,0.933333333
+claude_sonnet,confused,Management of Captive Animals,32,34,0.941176471
+claude_sonnet,confused,Marine Fish Conservation,63,71,0.887323944
+claude_sonnet,confused,Marine and Freshwater Mammal Conservation,34,39,0.871794872
+claude_sonnet,confused,Marsh and Swamp Conservation,171,181,0.944751381
+claude_sonnet,confused,Mediterranean Farmland,55,57,0.964912281
+claude_sonnet,confused,Natural Pest Control,15,15,1
+claude_sonnet,confused,Peatland Conservation,58,62,0.935483871
+claude_sonnet,confused,Primate Conservation,48,57,0.842105263
+claude_sonnet,confused,Reptile Conservation,139,155,0.896774194
+claude_sonnet,confused,Shrubland and Heathland Conservation,40,43,0.930232558
+claude_sonnet,confused,Soil Fertility,18,19,0.947368421
+claude_sonnet,confused,Subtidal Benthic Invertebrate Conservation,73,79,0.924050633
+claude_sonnet,confused,Sustainable Aquaculture,18,18,1
+claude_sonnet,confused,Terrestrial Mammal Conservation,170,188,0.904255319
+claude_sonnet,dense_retrieval,Amphibian Conservation,82,91,0.901098901
+claude_sonnet,dense_retrieval,Bat Conservation,39,46,0.847826087
+claude_sonnet,dense_retrieval,Bee Conservation,34,38,0.894736842
+claude_sonnet,dense_retrieval,Biodiversity of Marine Artificial Structures,29,35,0.828571429
+claude_sonnet,dense_retrieval,Bird Conservation,271,321,0.84423676
+claude_sonnet,dense_retrieval,Butterfly and Moth Conservation,78,115,0.67826087
+claude_sonnet,dense_retrieval,Control of Freshwater Invasive Species,44,50,0.88
+claude_sonnet,dense_retrieval,Farmland Conservation,58,73,0.794520548
+claude_sonnet,dense_retrieval,Forest Conservation,42,50,0.84
+claude_sonnet,dense_retrieval,Grassland Conservation,23,30,0.766666667
+claude_sonnet,dense_retrieval,Management of Captive Animals,29,34,0.852941177
+claude_sonnet,dense_retrieval,Marine Fish Conservation,51,71,0.718309859
+claude_sonnet,dense_retrieval,Marine and Freshwater Mammal Conservation,34,39,0.871794872
+claude_sonnet,dense_retrieval,Marsh and Swamp Conservation,151,181,0.834254144
+claude_sonnet,dense_retrieval,Mediterranean Farmland,43,57,0.754385965
+claude_sonnet,dense_retrieval,Natural Pest Control,13,15,0.866666667
+claude_sonnet,dense_retrieval,Peatland Conservation,48,62,0.774193548
+claude_sonnet,dense_retrieval,Primate Conservation,44,57,0.771929825
+claude_sonnet,dense_retrieval,Reptile Conservation,106,155,0.683870968
+claude_sonnet,dense_retrieval,Shrubland and Heathland Conservation,34,43,0.790697674
+claude_sonnet,dense_retrieval,Soil Fertility,16,19,0.842105263
+claude_sonnet,dense_retrieval,Subtidal Benthic Invertebrate Conservation,70,79,0.886075949
+claude_sonnet,dense_retrieval,Sustainable Aquaculture,17,18,0.944444444
+claude_sonnet,dense_retrieval,Terrestrial Mammal Conservation,150,188,0.79787234
+claude_sonnet,hybrid_retrieval,Amphibian Conservation,83,91,0.912087912
+claude_sonnet,hybrid_retrieval,Bat Conservation,40,46,0.869565217
+claude_sonnet,hybrid_retrieval,Bee Conservation,36,38,0.947368421
+claude_sonnet,hybrid_retrieval,Biodiversity of Marine Artificial Structures,31,35,0.885714286
+claude_sonnet,hybrid_retrieval,Bird Conservation,263,321,0.819314642
+claude_sonnet,hybrid_retrieval,Butterfly and Moth Conservation,94,115,0.817391304
+claude_sonnet,hybrid_retrieval,Control of Freshwater Invasive Species,41,50,0.82
+claude_sonnet,hybrid_retrieval,Farmland Conservation,66,73,0.904109589
+claude_sonnet,hybrid_retrieval,Forest Conservation,44,50,0.88
+claude_sonnet,hybrid_retrieval,Grassland Conservation,23,30,0.766666667
+claude_sonnet,hybrid_retrieval,Management of Captive Animals,29,34,0.852941177
+claude_sonnet,hybrid_retrieval,Marine Fish Conservation,55,71,0.774647887
+claude_sonnet,hybrid_retrieval,Marine and Freshwater Mammal Conservation,33,39,0.846153846
+claude_sonnet,hybrid_retrieval,Marsh and Swamp Conservation,155,181,0.856353591
+claude_sonnet,hybrid_retrieval,Mediterranean Farmland,47,57,0.824561404
+claude_sonnet,hybrid_retrieval,Natural Pest Control,12,15,0.8
+claude_sonnet,hybrid_retrieval,Peatland Conservation,53,62,0.85483871
+claude_sonnet,hybrid_retrieval,Primate Conservation,45,57,0.789473684
+claude_sonnet,hybrid_retrieval,Reptile Conservation,122,155,0.787096774
+claude_sonnet,hybrid_retrieval,Shrubland and Heathland Conservation,36,43,0.837209302
+claude_sonnet,hybrid_retrieval,Soil Fertility,17,19,0.894736842
+claude_sonnet,hybrid_retrieval,Subtidal Benthic Invertebrate Conservation,68,79,0.860759494
+claude_sonnet,hybrid_retrieval,Sustainable Aquaculture,17,18,0.944444444
+claude_sonnet,hybrid_retrieval,Terrestrial Mammal Conservation,156,188,0.829787234
+claude_sonnet,oracle,Amphibian Conservation,85,91,0.934065934
+claude_sonnet,oracle,Bat Conservation,43,46,0.934782609
+claude_sonnet,oracle,Bee Conservation,37,38,0.973684211
+claude_sonnet,oracle,Biodiversity of Marine Artificial Structures,34,35,0.971428571
+claude_sonnet,oracle,Bird Conservation,290,321,0.903426791
+claude_sonnet,oracle,Butterfly and Moth Conservation,105,115,0.913043478
+claude_sonnet,oracle,Control of Freshwater Invasive Species,49,50,0.98
+claude_sonnet,oracle,Farmland Conservation,71,73,0.97260274
+claude_sonnet,oracle,Forest Conservation,45,50,0.9
+claude_sonnet,oracle,Grassland Conservation,29,30,0.966666667
+claude_sonnet,oracle,Management of Captive Animals,33,34,0.970588235
+claude_sonnet,oracle,Marine Fish Conservation,65,71,0.915492958
+claude_sonnet,oracle,Marine and Freshwater Mammal Conservation,34,39,0.871794872
+claude_sonnet,oracle,Marsh and Swamp Conservation,172,181,0.950276243
+claude_sonnet,oracle,Mediterranean Farmland,55,57,0.964912281
+claude_sonnet,oracle,Natural Pest Control,15,15,1
+claude_sonnet,oracle,Peatland Conservation,59,62,0.951612903
+claude_sonnet,oracle,Primate Conservation,51,57,0.894736842
+claude_sonnet,oracle,Reptile Conservation,142,155,0.916129032
+claude_sonnet,oracle,Shrubland and Heathland Conservation,42,43,0.976744186
+claude_sonnet,oracle,Soil Fertility,19,19,1
+claude_sonnet,oracle,Subtidal Benthic Invertebrate Conservation,74,79,0.936708861
+claude_sonnet,oracle,Sustainable Aquaculture,18,18,1
+claude_sonnet,oracle,Terrestrial Mammal Conservation,177,188,0.941489362
+claude_sonnet,sparse_retrieval,Amphibian Conservation,77,91,0.846153846
+claude_sonnet,sparse_retrieval,Bat Conservation,39,46,0.847826087
+claude_sonnet,sparse_retrieval,Bee Conservation,34,38,0.894736842
+claude_sonnet,sparse_retrieval,Biodiversity of Marine Artificial Structures,29,35,0.828571429
+claude_sonnet,sparse_retrieval,Bird Conservation,229,321,0.713395639
+claude_sonnet,sparse_retrieval,Butterfly and Moth Conservation,90,115,0.782608696
+claude_sonnet,sparse_retrieval,Control of Freshwater Invasive Species,38,50,0.76
+claude_sonnet,sparse_retrieval,Farmland Conservation,64,73,0.876712329
+claude_sonnet,sparse_retrieval,Forest Conservation,41,50,0.82
+claude_sonnet,sparse_retrieval,Grassland Conservation,25,30,0.833333333
+claude_sonnet,sparse_retrieval,Management of Captive Animals,24,34,0.705882353
+claude_sonnet,sparse_retrieval,Marine Fish Conservation,55,71,0.774647887
+claude_sonnet,sparse_retrieval,Marine and Freshwater Mammal Conservation,30,39,0.769230769
+claude_sonnet,sparse_retrieval,Marsh and Swamp Conservation,140,181,0.773480663
+claude_sonnet,sparse_retrieval,Mediterranean Farmland,40,57,0.701754386
+claude_sonnet,sparse_retrieval,Natural Pest Control,12,15,0.8
+claude_sonnet,sparse_retrieval,Peatland Conservation,48,62,0.774193548
+claude_sonnet,sparse_retrieval,Primate Conservation,41,57,0.719298246
+claude_sonnet,sparse_retrieval,Reptile Conservation,116,155,0.748387097
+claude_sonnet,sparse_retrieval,Shrubland and Heathland Conservation,32,43,0.744186047
+claude_sonnet,sparse_retrieval,Soil Fertility,14,19,0.736842105
+claude_sonnet,sparse_retrieval,Subtidal Benthic Invertebrate Conservation,66,79,0.835443038
+claude_sonnet,sparse_retrieval,Sustainable Aquaculture,15,18,0.833333333
+claude_sonnet,sparse_retrieval,Terrestrial Mammal Conservation,159,188,0.845744681
+gemini_flash,closed_book,Amphibian Conservation,65,91,0.714285714
+gemini_flash,closed_book,Bat Conservation,38,46,0.826086957
+gemini_flash,closed_book,Bee Conservation,25,38,0.657894737
+gemini_flash,closed_book,Biodiversity of Marine Artificial Structures,30,35,0.857142857
+gemini_flash,closed_book,Bird Conservation,198,321,0.61682243
+gemini_flash,closed_book,Butterfly and Moth Conservation,73,115,0.634782609
+gemini_flash,closed_book,Control of Freshwater Invasive Species,27,50,0.54
+gemini_flash,closed_book,Farmland Conservation,54,73,0.739726027
+gemini_flash,closed_book,Forest Conservation,28,50,0.56
+gemini_flash,closed_book,Grassland Conservation,16,30,0.533333333
+gemini_flash,closed_book,Management of Captive Animals,21,34,0.617647059
+gemini_flash,closed_book,Marine Fish Conservation,52,71,0.732394366
+gemini_flash,closed_book,Marine and Freshwater Mammal Conservation,33,39,0.846153846
+gemini_flash,closed_book,Marsh and Swamp Conservation,98,181,0.541436464
+gemini_flash,closed_book,Mediterranean Farmland,43,57,0.754385965
+gemini_flash,closed_book,Natural Pest Control,10,15,0.666666667
+gemini_flash,closed_book,Peatland Conservation,29,62,0.467741936
+gemini_flash,closed_book,Primate Conservation,41,57,0.719298246
+gemini_flash,closed_book,Reptile Conservation,97,155,0.625806452
+gemini_flash,closed_book,Shrubland and Heathland Conservation,23,43,0.534883721
+gemini_flash,closed_book,Soil Fertility,15,19,0.789473684
+gemini_flash,closed_book,Subtidal Benthic Invertebrate Conservation,52,79,0.658227848
+gemini_flash,closed_book,Sustainable Aquaculture,11,18,0.611111111
+gemini_flash,closed_book,Terrestrial Mammal Conservation,121,188,0.643617021
+gemini_flash,confused,Amphibian Conservation,87,91,0.956043956
+gemini_flash,confused,Bat Conservation,45,46,0.97826087
+gemini_flash,confused,Bee Conservation,37,38,0.973684211
+gemini_flash,confused,Biodiversity of Marine Artificial Structures,35,35,1
+gemini_flash,confused,Bird Conservation,277,321,0.862928349
+gemini_flash,confused,Butterfly and Moth Conservation,112,115,0.973913044
+gemini_flash,confused,Control of Freshwater Invasive Species,44,50,0.88
+gemini_flash,confused,Farmland Conservation,70,73,0.95890411
+gemini_flash,confused,Forest Conservation,44,50,0.88
+gemini_flash,confused,Grassland Conservation,27,30,0.9
+gemini_flash,confused,Management of Captive Animals,32,34,0.941176471
+gemini_flash,confused,Marine Fish Conservation,61,71,0.85915493
+gemini_flash,confused,Marine and Freshwater Mammal Conservation,35,39,0.897435897
+gemini_flash,confused,Marsh and Swamp Conservation,172,181,0.950276243
+gemini_flash,confused,Mediterranean Farmland,55,57,0.964912281
+gemini_flash,confused,Natural Pest Control,15,15,1
+gemini_flash,confused,Peatland Conservation,57,62,0.919354839
+gemini_flash,confused,Primate Conservation,47,57,0.824561404
+gemini_flash,confused,Reptile Conservation,142,155,0.916129032
+gemini_flash,confused,Shrubland and Heathland Conservation,41,43,0.953488372
+gemini_flash,confused,Soil Fertility,18,19,0.947368421
+gemini_flash,confused,Subtidal Benthic Invertebrate Conservation,72,79,0.911392405
+gemini_flash,confused,Sustainable Aquaculture,18,18,1
+gemini_flash,confused,Terrestrial Mammal Conservation,169,188,0.89893617
+gemini_flash,dense_retrieval,Amphibian Conservation,84,91,0.923076923
+gemini_flash,dense_retrieval,Bat Conservation,40,46,0.869565217
+gemini_flash,dense_retrieval,Bee Conservation,34,38,0.894736842
+gemini_flash,dense_retrieval,Biodiversity of Marine Artificial Structures,31,35,0.885714286
+gemini_flash,dense_retrieval,Bird Conservation,267,321,0.831775701
+gemini_flash,dense_retrieval,Butterfly and Moth Conservation,88,115,0.765217391
+gemini_flash,dense_retrieval,Control of Freshwater Invasive Species,43,50,0.86
+gemini_flash,dense_retrieval,Farmland Conservation,64,73,0.876712329
+gemini_flash,dense_retrieval,Forest Conservation,40,50,0.8
+gemini_flash,dense_retrieval,Grassland Conservation,23,30,0.766666667
+gemini_flash,dense_retrieval,Management of Captive Animals,31,34,0.911764706
+gemini_flash,dense_retrieval,Marine Fish Conservation,53,71,0.746478873
+gemini_flash,dense_retrieval,Marine and Freshwater Mammal Conservation,35,39,0.897435897
+gemini_flash,dense_retrieval,Marsh and Swamp Conservation,148,181,0.817679558
+gemini_flash,dense_retrieval,Mediterranean Farmland,45,57,0.789473684
+gemini_flash,dense_retrieval,Natural Pest Control,15,15,1
+gemini_flash,dense_retrieval,Peatland Conservation,47,62,0.758064516
+gemini_flash,dense_retrieval,Primate Conservation,43,57,0.754385965
+gemini_flash,dense_retrieval,Reptile Conservation,118,155,0.761290323
+gemini_flash,dense_retrieval,Shrubland and Heathland Conservation,35,43,0.813953488
+gemini_flash,dense_retrieval,Soil Fertility,14,19,0.736842105
+gemini_flash,dense_retrieval,Subtidal Benthic Invertebrate Conservation,69,79,0.873417722
+gemini_flash,dense_retrieval,Sustainable Aquaculture,17,18,0.944444444
+gemini_flash,dense_retrieval,Terrestrial Mammal Conservation,157,188,0.835106383
+gemini_flash,hybrid_retrieval,Amphibian Conservation,84,91,0.923076923
+gemini_flash,hybrid_retrieval,Bat Conservation,44,46,0.956521739
+gemini_flash,hybrid_retrieval,Bee Conservation,35,38,0.921052632
+gemini_flash,hybrid_retrieval,Biodiversity of Marine Artificial Structures,33,35,0.942857143
+gemini_flash,hybrid_retrieval,Bird Conservation,267,321,0.831775701
+gemini_flash,hybrid_retrieval,Butterfly and Moth Conservation,100,115,0.869565217
+gemini_flash,hybrid_retrieval,Control of Freshwater Invasive Species,38,50,0.76
+gemini_flash,hybrid_retrieval,Farmland Conservation,69,73,0.94520548
+gemini_flash,hybrid_retrieval,Forest Conservation,40,50,0.8
+gemini_flash,hybrid_retrieval,Grassland Conservation,26,30,0.866666667
+gemini_flash,hybrid_retrieval,Management of Captive Animals,30,34,0.882352941
+gemini_flash,hybrid_retrieval,Marine Fish Conservation,54,71,0.76056338
+gemini_flash,hybrid_retrieval,Marine and Freshwater Mammal Conservation,36,39,0.923076923
+gemini_flash,hybrid_retrieval,Marsh and Swamp Conservation,162,181,0.895027624
+gemini_flash,hybrid_retrieval,Mediterranean Farmland,51,57,0.894736842
+gemini_flash,hybrid_retrieval,Natural Pest Control,15,15,1
+gemini_flash,hybrid_retrieval,Peatland Conservation,54,62,0.870967742
+gemini_flash,hybrid_retrieval,Primate Conservation,45,57,0.789473684
+gemini_flash,hybrid_retrieval,Reptile Conservation,122,155,0.787096774
+gemini_flash,hybrid_retrieval,Shrubland and Heathland Conservation,36,43,0.837209302
+gemini_flash,hybrid_retrieval,Soil Fertility,15,19,0.789473684
+gemini_flash,hybrid_retrieval,Subtidal Benthic Invertebrate Conservation,71,79,0.898734177
+gemini_flash,hybrid_retrieval,Sustainable Aquaculture,17,18,0.944444444
+gemini_flash,hybrid_retrieval,Terrestrial Mammal Conservation,160,188,0.85106383
+gemini_flash,oracle,Amphibian Conservation,87,91,0.956043956
+gemini_flash,oracle,Bat Conservation,46,46,1
+gemini_flash,oracle,Bee Conservation,36,38,0.947368421
+gemini_flash,oracle,Biodiversity of Marine Artificial Structures,35,35,1
+gemini_flash,oracle,Bird Conservation,284,321,0.884735203
+gemini_flash,oracle,Butterfly and Moth Conservation,112,115,0.973913044
+gemini_flash,oracle,Control of Freshwater Invasive Species,45,50,0.9
+gemini_flash,oracle,Farmland Conservation,70,73,0.95890411
+gemini_flash,oracle,Forest Conservation,42,50,0.84
+gemini_flash,oracle,Grassland Conservation,27,30,0.9
+gemini_flash,oracle,Management of Captive Animals,32,34,0.941176471
+gemini_flash,oracle,Marine Fish Conservation,65,71,0.915492958
+gemini_flash,oracle,Marine and Freshwater Mammal Conservation,36,39,0.923076923
+gemini_flash,oracle,Marsh and Swamp Conservation,174,181,0.961325967
+gemini_flash,oracle,Mediterranean Farmland,55,57,0.964912281
+gemini_flash,oracle,Natural Pest Control,15,15,1
+gemini_flash,oracle,Peatland Conservation,59,62,0.951612903
+gemini_flash,oracle,Primate Conservation,50,57,0.877192983
+gemini_flash,oracle,Reptile Conservation,145,155,0.935483871
+gemini_flash,oracle,Shrubland and Heathland Conservation,42,43,0.976744186
+gemini_flash,oracle,Soil Fertility,19,19,1
+gemini_flash,oracle,Subtidal Benthic Invertebrate Conservation,74,79,0.936708861
+gemini_flash,oracle,Sustainable Aquaculture,18,18,1
+gemini_flash,oracle,Terrestrial Mammal Conservation,175,188,0.930851064
+gemini_flash,sparse_retrieval,Amphibian Conservation,78,91,0.857142857
+gemini_flash,sparse_retrieval,Bat Conservation,42,46,0.913043478
+gemini_flash,sparse_retrieval,Bee Conservation,35,38,0.921052632
+gemini_flash,sparse_retrieval,Biodiversity of Marine Artificial Structures,33,35,0.942857143
+gemini_flash,sparse_retrieval,Bird Conservation,234,321,0.728971963
+gemini_flash,sparse_retrieval,Butterfly and Moth Conservation,96,115,0.834782609
+gemini_flash,sparse_retrieval,Control of Freshwater Invasive Species,33,50,0.66
+gemini_flash,sparse_retrieval,Farmland Conservation,66,73,0.904109589
+gemini_flash,sparse_retrieval,Forest Conservation,37,50,0.74
+gemini_flash,sparse_retrieval,Grassland Conservation,25,30,0.833333333
+gemini_flash,sparse_retrieval,Management of Captive Animals,25,34,0.735294118
+gemini_flash,sparse_retrieval,Marine Fish Conservation,55,71,0.774647887
+gemini_flash,sparse_retrieval,Marine and Freshwater Mammal Conservation,32,39,0.820512821
+gemini_flash,sparse_retrieval,Marsh and Swamp Conservation,151,181,0.834254144
+gemini_flash,sparse_retrieval,Mediterranean Farmland,44,57,0.771929825
+gemini_flash,sparse_retrieval,Natural Pest Control,14,15,0.933333333
+gemini_flash,sparse_retrieval,Peatland Conservation,49,62,0.790322581
+gemini_flash,sparse_retrieval,Primate Conservation,45,57,0.789473684
+gemini_flash,sparse_retrieval,Reptile Conservation,120,155,0.774193548
+gemini_flash,sparse_retrieval,Shrubland and Heathland Conservation,32,43,0.744186047
+gemini_flash,sparse_retrieval,Soil Fertility,15,19,0.789473684
+gemini_flash,sparse_retrieval,Subtidal Benthic Invertebrate Conservation,68,79,0.860759494
+gemini_flash,sparse_retrieval,Sustainable Aquaculture,16,18,0.888888889
+gemini_flash,sparse_retrieval,Terrestrial Mammal Conservation,149,188,0.792553192
+gemini_pro001,closed_book,Amphibian Conservation,64,91,0.703296703
+gemini_pro001,closed_book,Bat Conservation,36,46,0.782608696
+gemini_pro001,closed_book,Bee Conservation,28,38,0.736842105
+gemini_pro001,closed_book,Biodiversity of Marine Artificial Structures,29,35,0.828571429
+gemini_pro001,closed_book,Bird Conservation,210,321,0.654205608
+gemini_pro001,closed_book,Butterfly and Moth Conservation,71,115,0.617391304
+gemini_pro001,closed_book,Control of Freshwater Invasive Species,32,50,0.64
+gemini_pro001,closed_book,Farmland Conservation,46,73,0.630136986
+gemini_pro001,closed_book,Forest Conservation,30,50,0.6
+gemini_pro001,closed_book,Grassland Conservation,17,30,0.566666667
+gemini_pro001,closed_book,Management of Captive Animals,22,34,0.647058824
+gemini_pro001,closed_book,Marine Fish Conservation,50,71,0.704225352
+gemini_pro001,closed_book,Marine and Freshwater Mammal Conservation,30,39,0.769230769
+gemini_pro001,closed_book,Marsh and Swamp Conservation,97,181,0.535911602
+gemini_pro001,closed_book,Mediterranean Farmland,39,57,0.684210526
+gemini_pro001,closed_book,Natural Pest Control,13,15,0.866666667
+gemini_pro001,closed_book,Peatland Conservation,37,62,0.596774194
+gemini_pro001,closed_book,Primate Conservation,43,57,0.754385965
+gemini_pro001,closed_book,Reptile Conservation,101,155,0.651612903
+gemini_pro001,closed_book,Shrubland and Heathland Conservation,26,43,0.604651163
+gemini_pro001,closed_book,Soil Fertility,14,19,0.736842105
+gemini_pro001,closed_book,Subtidal Benthic Invertebrate Conservation,51,79,0.64556962
+gemini_pro001,closed_book,Sustainable Aquaculture,11,18,0.611111111
+gemini_pro001,closed_book,Terrestrial Mammal Conservation,125,188,0.664893617
+gemini_pro001,confused,Amphibian Conservation,86,91,0.945054945
+gemini_pro001,confused,Bat Conservation,43,46,0.934782609
+gemini_pro001,confused,Bee Conservation,37,38,0.973684211
+gemini_pro001,confused,Biodiversity of Marine Artificial Structures,33,35,0.942857143
+gemini_pro001,confused,Bird Conservation,293,321,0.912772586
+gemini_pro001,confused,Butterfly and Moth Conservation,108,115,0.939130435
+gemini_pro001,confused,Control of Freshwater Invasive Species,46,50,0.92
+gemini_pro001,confused,Farmland Conservation,69,73,0.94520548
+gemini_pro001,confused,Forest Conservation,45,50,0.9
+gemini_pro001,confused,Grassland Conservation,28,30,0.933333333
+gemini_pro001,confused,Management of Captive Animals,32,34,0.941176471
+gemini_pro001,confused,Marine Fish Conservation,61,71,0.85915493
+gemini_pro001,confused,Marine and Freshwater Mammal Conservation,33,39,0.846153846
+gemini_pro001,confused,Marsh and Swamp Conservation,168,181,0.928176796
+gemini_pro001,confused,Mediterranean Farmland,56,57,0.98245614
+gemini_pro001,confused,Natural Pest Control,15,15,1
+gemini_pro001,confused,Peatland Conservation,57,62,0.919354839
+gemini_pro001,confused,Primate Conservation,50,57,0.877192983
+gemini_pro001,confused,Reptile Conservation,146,155,0.941935484
+gemini_pro001,confused,Shrubland and Heathland Conservation,42,43,0.976744186
+gemini_pro001,confused,Soil Fertility,18,19,0.947368421
+gemini_pro001,confused,Subtidal Benthic Invertebrate Conservation,71,79,0.898734177
+gemini_pro001,confused,Sustainable Aquaculture,18,18,1
+gemini_pro001,confused,Terrestrial Mammal Conservation,177,188,0.941489362
+gemini_pro001,dense_retrieval,Amphibian Conservation,84,91,0.923076923
+gemini_pro001,dense_retrieval,Bat Conservation,39,46,0.847826087
+gemini_pro001,dense_retrieval,Bee Conservation,34,38,0.894736842
+gemini_pro001,dense_retrieval,Biodiversity of Marine Artificial Structures,30,35,0.857142857
+gemini_pro001,dense_retrieval,Bird Conservation,287,321,0.894080997
+gemini_pro001,dense_retrieval,Butterfly and Moth Conservation,93,115,0.808695652
+gemini_pro001,dense_retrieval,Control of Freshwater Invasive Species,45,50,0.9
+gemini_pro001,dense_retrieval,Farmland Conservation,64,73,0.876712329
+gemini_pro001,dense_retrieval,Forest Conservation,44,50,0.88
+gemini_pro001,dense_retrieval,Grassland Conservation,23,30,0.766666667
+gemini_pro001,dense_retrieval,Management of Captive Animals,31,34,0.911764706
+gemini_pro001,dense_retrieval,Marine Fish Conservation,54,71,0.76056338
+gemini_pro001,dense_retrieval,Marine and Freshwater Mammal Conservation,36,39,0.923076923
+gemini_pro001,dense_retrieval,Marsh and Swamp Conservation,147,181,0.812154696
+gemini_pro001,dense_retrieval,Mediterranean Farmland,45,57,0.789473684
+gemini_pro001,dense_retrieval,Natural Pest Control,14,15,0.933333333
+gemini_pro001,dense_retrieval,Peatland Conservation,46,62,0.741935484
+gemini_pro001,dense_retrieval,Primate Conservation,47,57,0.824561404
+gemini_pro001,dense_retrieval,Reptile Conservation,115,155,0.741935484
+gemini_pro001,dense_retrieval,Shrubland and Heathland Conservation,33,43,0.767441861
+gemini_pro001,dense_retrieval,Soil Fertility,15,19,0.789473684
+gemini_pro001,dense_retrieval,Subtidal Benthic Invertebrate Conservation,70,79,0.886075949
+gemini_pro001,dense_retrieval,Sustainable Aquaculture,16,18,0.888888889
+gemini_pro001,dense_retrieval,Terrestrial Mammal Conservation,163,188,0.867021277
+gemini_pro001,hybrid_retrieval,Amphibian Conservation,82,91,0.901098901
+gemini_pro001,hybrid_retrieval,Bat Conservation,41,46,0.891304348
+gemini_pro001,hybrid_retrieval,Bee Conservation,36,38,0.947368421
+gemini_pro001,hybrid_retrieval,Biodiversity of Marine Artificial Structures,33,35,0.942857143
+gemini_pro001,hybrid_retrieval,Bird Conservation,281,321,0.875389408
+gemini_pro001,hybrid_retrieval,Butterfly and Moth Conservation,97,115,0.843478261
+gemini_pro001,hybrid_retrieval,Control of Freshwater Invasive Species,41,50,0.82
+gemini_pro001,hybrid_retrieval,Farmland Conservation,68,73,0.931506849
+gemini_pro001,hybrid_retrieval,Forest Conservation,46,50,0.92
+gemini_pro001,hybrid_retrieval,Grassland Conservation,26,30,0.866666667
+gemini_pro001,hybrid_retrieval,Management of Captive Animals,31,34,0.911764706
+gemini_pro001,hybrid_retrieval,Marine Fish Conservation,58,71,0.816901409
+gemini_pro001,hybrid_retrieval,Marine and Freshwater Mammal Conservation,38,39,0.974358974
+gemini_pro001,hybrid_retrieval,Marsh and Swamp Conservation,159,181,0.878453039
+gemini_pro001,hybrid_retrieval,Mediterranean Farmland,54,57,0.947368421
+gemini_pro001,hybrid_retrieval,Natural Pest Control,14,15,0.933333333
+gemini_pro001,hybrid_retrieval,Peatland Conservation,53,62,0.85483871
+gemini_pro001,hybrid_retrieval,Primate Conservation,51,57,0.894736842
+gemini_pro001,hybrid_retrieval,Reptile Conservation,129,155,0.832258065
+gemini_pro001,hybrid_retrieval,Shrubland and Heathland Conservation,38,43,0.88372093
+gemini_pro001,hybrid_retrieval,Soil Fertility,16,19,0.842105263
+gemini_pro001,hybrid_retrieval,Subtidal Benthic Invertebrate Conservation,70,79,0.886075949
+gemini_pro001,hybrid_retrieval,Sustainable Aquaculture,16,18,0.888888889
+gemini_pro001,hybrid_retrieval,Terrestrial Mammal Conservation,163,188,0.867021277
+gemini_pro001,oracle,Amphibian Conservation,89,91,0.978021978
+gemini_pro001,oracle,Bat Conservation,43,46,0.934782609
+gemini_pro001,oracle,Bee Conservation,37,38,0.973684211
+gemini_pro001,oracle,Biodiversity of Marine Artificial Structures,34,35,0.971428571
+gemini_pro001,oracle,Bird Conservation,300,321,0.934579439
+gemini_pro001,oracle,Butterfly and Moth Conservation,109,115,0.947826087
+gemini_pro001,oracle,Control of Freshwater Invasive Species,46,50,0.92
+gemini_pro001,oracle,Farmland Conservation,72,73,0.98630137
+gemini_pro001,oracle,Forest Conservation,46,50,0.92
+gemini_pro001,oracle,Grassland Conservation,28,30,0.933333333
+gemini_pro001,oracle,Management of Captive Animals,32,34,0.941176471
+gemini_pro001,oracle,Marine Fish Conservation,63,71,0.887323944
+gemini_pro001,oracle,Marine and Freshwater Mammal Conservation,35,39,0.897435897
+gemini_pro001,oracle,Marsh and Swamp Conservation,174,181,0.961325967
+gemini_pro001,oracle,Mediterranean Farmland,56,57,0.98245614
+gemini_pro001,oracle,Natural Pest Control,15,15,1
+gemini_pro001,oracle,Peatland Conservation,58,62,0.935483871
+gemini_pro001,oracle,Primate Conservation,55,57,0.964912281
+gemini_pro001,oracle,Reptile Conservation,149,155,0.961290323
+gemini_pro001,oracle,Shrubland and Heathland Conservation,42,43,0.976744186
+gemini_pro001,oracle,Soil Fertility,19,19,1
+gemini_pro001,oracle,Subtidal Benthic Invertebrate Conservation,72,79,0.911392405
+gemini_pro001,oracle,Sustainable Aquaculture,18,18,1
+gemini_pro001,oracle,Terrestrial Mammal Conservation,179,188,0.95212766
+gemini_pro001,sparse_retrieval,Amphibian Conservation,78,91,0.857142857
+gemini_pro001,sparse_retrieval,Bat Conservation,39,46,0.847826087
+gemini_pro001,sparse_retrieval,Bee Conservation,33,38,0.868421053
+gemini_pro001,sparse_retrieval,Biodiversity of Marine Artificial Structures,33,35,0.942857143
+gemini_pro001,sparse_retrieval,Bird Conservation,245,321,0.763239875
+gemini_pro001,sparse_retrieval,Butterfly and Moth Conservation,94,115,0.817391304
+gemini_pro001,sparse_retrieval,Control of Freshwater Invasive Species,38,50,0.76
+gemini_pro001,sparse_retrieval,Farmland Conservation,64,73,0.876712329
+gemini_pro001,sparse_retrieval,Forest Conservation,39,50,0.78
+gemini_pro001,sparse_retrieval,Grassland Conservation,23,30,0.766666667
+gemini_pro001,sparse_retrieval,Management of Captive Animals,26,34,0.764705882
+gemini_pro001,sparse_retrieval,Marine Fish Conservation,58,71,0.816901409
+gemini_pro001,sparse_retrieval,Marine and Freshwater Mammal Conservation,32,39,0.820512821
+gemini_pro001,sparse_retrieval,Marsh and Swamp Conservation,147,181,0.812154696
+gemini_pro001,sparse_retrieval,Mediterranean Farmland,44,57,0.771929825
+gemini_pro001,sparse_retrieval,Natural Pest Control,13,15,0.866666667
+gemini_pro001,sparse_retrieval,Peatland Conservation,48,62,0.774193548
+gemini_pro001,sparse_retrieval,Primate Conservation,47,57,0.824561404
+gemini_pro001,sparse_retrieval,Reptile Conservation,123,155,0.793548387
+gemini_pro001,sparse_retrieval,Shrubland and Heathland Conservation,36,43,0.837209302
+gemini_pro001,sparse_retrieval,Soil Fertility,15,19,0.789473684
+gemini_pro001,sparse_retrieval,Subtidal Benthic Invertebrate Conservation,68,79,0.860759494
+gemini_pro001,sparse_retrieval,Sustainable Aquaculture,16,18,0.888888889
+gemini_pro001,sparse_retrieval,Terrestrial Mammal Conservation,159,188,0.845744681
+gemma_27b,closed_book,Amphibian Conservation,68,91,0.747252747
+gemma_27b,closed_book,Bat Conservation,34,46,0.739130435
+gemma_27b,closed_book,Bee Conservation,30,38,0.789473684
+gemma_27b,closed_book,Biodiversity of Marine Artificial Structures,31,35,0.885714286
+gemma_27b,closed_book,Bird Conservation,204,321,0.635514019
+gemma_27b,closed_book,Butterfly and Moth Conservation,76,115,0.660869565
+gemma_27b,closed_book,Control of Freshwater Invasive Species,33,50,0.66
+gemma_27b,closed_book,Farmland Conservation,54,73,0.739726027
+gemma_27b,closed_book,Forest Conservation,28,50,0.56
+gemma_27b,closed_book,Grassland Conservation,13,30,0.433333333
+gemma_27b,closed_book,Management of Captive Animals,25,34,0.735294118
+gemma_27b,closed_book,Marine Fish Conservation,49,71,0.690140845
+gemma_27b,closed_book,Marine and Freshwater Mammal Conservation,33,39,0.846153846
+gemma_27b,closed_book,Marsh and Swamp Conservation,103,181,0.569060774
+gemma_27b,closed_book,Mediterranean Farmland,43,57,0.754385965
+gemma_27b,closed_book,Natural Pest Control,13,15,0.866666667
+gemma_27b,closed_book,Peatland Conservation,31,62,0.5
+gemma_27b,closed_book,Primate Conservation,43,57,0.754385965
+gemma_27b,closed_book,Reptile Conservation,94,155,0.606451613
+gemma_27b,closed_book,Shrubland and Heathland Conservation,26,43,0.604651163
+gemma_27b,closed_book,Soil Fertility,16,19,0.842105263
+gemma_27b,closed_book,Subtidal Benthic Invertebrate Conservation,53,79,0.670886076
+gemma_27b,closed_book,Sustainable Aquaculture,10,18,0.555555556
+gemma_27b,closed_book,Terrestrial Mammal Conservation,124,188,0.659574468
+gemma_27b,confused,Amphibian Conservation,86,91,0.945054945
+gemma_27b,confused,Bat Conservation,46,46,1
+gemma_27b,confused,Bee Conservation,37,38,0.973684211
+gemma_27b,confused,Biodiversity of Marine Artificial Structures,33,35,0.942857143
+gemma_27b,confused,Bird Conservation,289,321,0.900311527
+gemma_27b,confused,Butterfly and Moth Conservation,102,115,0.886956522
+gemma_27b,confused,Control of Freshwater Invasive Species,46,50,0.92
+gemma_27b,confused,Farmland Conservation,70,73,0.95890411
+gemma_27b,confused,Forest Conservation,46,50,0.92
+gemma_27b,confused,Grassland Conservation,29,30,0.966666667
+gemma_27b,confused,Management of Captive Animals,32,34,0.941176471
+gemma_27b,confused,Marine Fish Conservation,63,71,0.887323944
+gemma_27b,confused,Marine and Freshwater Mammal Conservation,32,39,0.820512821
+gemma_27b,confused,Marsh and Swamp Conservation,172,181,0.950276243
+gemma_27b,confused,Mediterranean Farmland,55,57,0.964912281
+gemma_27b,confused,Natural Pest Control,15,15,1
+gemma_27b,confused,Peatland Conservation,58,62,0.935483871
+gemma_27b,confused,Primate Conservation,50,57,0.877192983
+gemma_27b,confused,Reptile Conservation,140,155,0.903225807
+gemma_27b,confused,Shrubland and Heathland Conservation,41,43,0.953488372
+gemma_27b,confused,Soil Fertility,18,19,0.947368421
+gemma_27b,confused,Subtidal Benthic Invertebrate Conservation,73,79,0.924050633
+gemma_27b,confused,Sustainable Aquaculture,18,18,1
+gemma_27b,confused,Terrestrial Mammal Conservation,173,188,0.920212766
+gemma_27b,dense_retrieval,Amphibian Conservation,86,91,0.945054945
+gemma_27b,dense_retrieval,Bat Conservation,40,46,0.869565217
+gemma_27b,dense_retrieval,Bee Conservation,34,38,0.894736842
+gemma_27b,dense_retrieval,Biodiversity of Marine Artificial Structures,31,35,0.885714286
+gemma_27b,dense_retrieval,Bird Conservation,274,321,0.853582555
+gemma_27b,dense_retrieval,Butterfly and Moth Conservation,89,115,0.773913044
+gemma_27b,dense_retrieval,Control of Freshwater Invasive Species,45,50,0.9
+gemma_27b,dense_retrieval,Farmland Conservation,61,73,0.835616438
+gemma_27b,dense_retrieval,Forest Conservation,42,50,0.84
+gemma_27b,dense_retrieval,Grassland Conservation,27,30,0.9
+gemma_27b,dense_retrieval,Management of Captive Animals,30,34,0.882352941
+gemma_27b,dense_retrieval,Marine Fish Conservation,56,71,0.788732394
+gemma_27b,dense_retrieval,Marine and Freshwater Mammal Conservation,33,39,0.846153846
+gemma_27b,dense_retrieval,Marsh and Swamp Conservation,153,181,0.845303867
+gemma_27b,dense_retrieval,Mediterranean Farmland,49,57,0.859649123
+gemma_27b,dense_retrieval,Natural Pest Control,14,15,0.933333333
+gemma_27b,dense_retrieval,Peatland Conservation,49,62,0.790322581
+gemma_27b,dense_retrieval,Primate Conservation,50,57,0.877192983
+gemma_27b,dense_retrieval,Reptile Conservation,108,155,0.696774194
+gemma_27b,dense_retrieval,Shrubland and Heathland Conservation,34,43,0.790697674
+gemma_27b,dense_retrieval,Soil Fertility,14,19,0.736842105
+gemma_27b,dense_retrieval,Subtidal Benthic Invertebrate Conservation,69,79,0.873417722
+gemma_27b,dense_retrieval,Sustainable Aquaculture,17,18,0.944444444
+gemma_27b,dense_retrieval,Terrestrial Mammal Conservation,156,188,0.829787234
+gemma_27b,hybrid_retrieval,Amphibian Conservation,86,91,0.945054945
+gemma_27b,hybrid_retrieval,Bat Conservation,41,46,0.891304348
+gemma_27b,hybrid_retrieval,Bee Conservation,36,38,0.947368421
+gemma_27b,hybrid_retrieval,Biodiversity of Marine Artificial Structures,34,35,0.971428571
+gemma_27b,hybrid_retrieval,Bird Conservation,277,321,0.862928349
+gemma_27b,hybrid_retrieval,Butterfly and Moth Conservation,95,115,0.826086957
+gemma_27b,hybrid_retrieval,Control of Freshwater Invasive Species,42,50,0.84
+gemma_27b,hybrid_retrieval,Farmland Conservation,68,73,0.931506849
+gemma_27b,hybrid_retrieval,Forest Conservation,43,50,0.86
+gemma_27b,hybrid_retrieval,Grassland Conservation,27,30,0.9
+gemma_27b,hybrid_retrieval,Management of Captive Animals,31,34,0.911764706
+gemma_27b,hybrid_retrieval,Marine Fish Conservation,59,71,0.830985916
+gemma_27b,hybrid_retrieval,Marine and Freshwater Mammal Conservation,34,39,0.871794872
+gemma_27b,hybrid_retrieval,Marsh and Swamp Conservation,163,181,0.900552486
+gemma_27b,hybrid_retrieval,Mediterranean Farmland,52,57,0.912280702
+gemma_27b,hybrid_retrieval,Natural Pest Control,15,15,1
+gemma_27b,hybrid_retrieval,Peatland Conservation,52,62,0.838709677
+gemma_27b,hybrid_retrieval,Primate Conservation,47,57,0.824561404
+gemma_27b,hybrid_retrieval,Reptile Conservation,121,155,0.780645161
+gemma_27b,hybrid_retrieval,Shrubland and Heathland Conservation,38,43,0.88372093
+gemma_27b,hybrid_retrieval,Soil Fertility,16,19,0.842105263
+gemma_27b,hybrid_retrieval,Subtidal Benthic Invertebrate Conservation,71,79,0.898734177
+gemma_27b,hybrid_retrieval,Sustainable Aquaculture,17,18,0.944444444
+gemma_27b,hybrid_retrieval,Terrestrial Mammal Conservation,163,188,0.867021277
+gemma_27b,oracle,Amphibian Conservation,88,91,0.967032967
+gemma_27b,oracle,Bat Conservation,46,46,1
+gemma_27b,oracle,Bee Conservation,37,38,0.973684211
+gemma_27b,oracle,Biodiversity of Marine Artificial Structures,35,35,1
+gemma_27b,oracle,Bird Conservation,291,321,0.906542056
+gemma_27b,oracle,Butterfly and Moth Conservation,107,115,0.930434783
+gemma_27b,oracle,Control of Freshwater Invasive Species,47,50,0.94
+gemma_27b,oracle,Farmland Conservation,71,73,0.97260274
+gemma_27b,oracle,Forest Conservation,46,50,0.92
+gemma_27b,oracle,Grassland Conservation,30,30,1
+gemma_27b,oracle,Management of Captive Animals,32,34,0.941176471
+gemma_27b,oracle,Marine Fish Conservation,63,71,0.887323944
+gemma_27b,oracle,Marine and Freshwater Mammal Conservation,34,39,0.871794872
+gemma_27b,oracle,Marsh and Swamp Conservation,171,181,0.944751381
+gemma_27b,oracle,Mediterranean Farmland,56,57,0.98245614
+gemma_27b,oracle,Natural Pest Control,15,15,1
+gemma_27b,oracle,Peatland Conservation,60,62,0.967741936
+gemma_27b,oracle,Primate Conservation,53,57,0.929824561
+gemma_27b,oracle,Reptile Conservation,143,155,0.922580645
+gemma_27b,oracle,Shrubland and Heathland Conservation,41,43,0.953488372
+gemma_27b,oracle,Soil Fertility,19,19,1
+gemma_27b,oracle,Subtidal Benthic Invertebrate Conservation,74,79,0.936708861
+gemma_27b,oracle,Sustainable Aquaculture,18,18,1
+gemma_27b,oracle,Terrestrial Mammal Conservation,173,188,0.920212766
+gemma_27b,sparse_retrieval,Amphibian Conservation,77,91,0.846153846
+gemma_27b,sparse_retrieval,Bat Conservation,40,46,0.869565217
+gemma_27b,sparse_retrieval,Bee Conservation,32,38,0.842105263
+gemma_27b,sparse_retrieval,Biodiversity of Marine Artificial Structures,34,35,0.971428571
+gemma_27b,sparse_retrieval,Bird Conservation,245,321,0.763239875
+gemma_27b,sparse_retrieval,Butterfly and Moth Conservation,90,115,0.782608696
+gemma_27b,sparse_retrieval,Control of Freshwater Invasive Species,37,50,0.74
+gemma_27b,sparse_retrieval,Farmland Conservation,64,73,0.876712329
+gemma_27b,sparse_retrieval,Forest Conservation,37,50,0.74
+gemma_27b,sparse_retrieval,Grassland Conservation,26,30,0.866666667
+gemma_27b,sparse_retrieval,Management of Captive Animals,25,34,0.735294118
+gemma_27b,sparse_retrieval,Marine Fish Conservation,59,71,0.830985916
+gemma_27b,sparse_retrieval,Marine and Freshwater Mammal Conservation,30,39,0.769230769
+gemma_27b,sparse_retrieval,Marsh and Swamp Conservation,151,181,0.834254144
+gemma_27b,sparse_retrieval,Mediterranean Farmland,44,57,0.771929825
+gemma_27b,sparse_retrieval,Natural Pest Control,13,15,0.866666667
+gemma_27b,sparse_retrieval,Peatland Conservation,50,62,0.806451613
+gemma_27b,sparse_retrieval,Primate Conservation,46,57,0.807017544
+gemma_27b,sparse_retrieval,Reptile Conservation,116,155,0.748387097
+gemma_27b,sparse_retrieval,Shrubland and Heathland Conservation,34,43,0.790697674
+gemma_27b,sparse_retrieval,Soil Fertility,16,19,0.842105263
+gemma_27b,sparse_retrieval,Subtidal Benthic Invertebrate Conservation,69,79,0.873417722
+gemma_27b,sparse_retrieval,Sustainable Aquaculture,16,18,0.888888889
+gemma_27b,sparse_retrieval,Terrestrial Mammal Conservation,155,188,0.824468085
+gemma_9b,closed_book,Amphibian Conservation,59,91,0.648351648
+gemma_9b,closed_book,Bat Conservation,37,46,0.804347826
+gemma_9b,closed_book,Bee Conservation,27,38,0.710526316
+gemma_9b,closed_book,Biodiversity of Marine Artificial Structures,30,35,0.857142857
+gemma_9b,closed_book,Bird Conservation,190,321,0.591900312
+gemma_9b,closed_book,Butterfly and Moth Conservation,75,115,0.652173913
+gemma_9b,closed_book,Control of Freshwater Invasive Species,33,50,0.66
+gemma_9b,closed_book,Farmland Conservation,49,73,0.671232877
+gemma_9b,closed_book,Forest Conservation,32,50,0.64
+gemma_9b,closed_book,Grassland Conservation,17,30,0.566666667
+gemma_9b,closed_book,Management of Captive Animals,24,34,0.705882353
+gemma_9b,closed_book,Marine Fish Conservation,51,71,0.718309859
+gemma_9b,closed_book,Marine and Freshwater Mammal Conservation,29,39,0.743589744
+gemma_9b,closed_book,Marsh and Swamp Conservation,100,181,0.552486188
+gemma_9b,closed_book,Mediterranean Farmland,39,57,0.684210526
+gemma_9b,closed_book,Natural Pest Control,13,15,0.866666667
+gemma_9b,closed_book,Peatland Conservation,28,62,0.451612903
+gemma_9b,closed_book,Primate Conservation,38,57,0.666666667
+gemma_9b,closed_book,Reptile Conservation,93,155,0.6
+gemma_9b,closed_book,Shrubland and Heathland Conservation,22,43,0.511627907
+gemma_9b,closed_book,Soil Fertility,14,19,0.736842105
+gemma_9b,closed_book,Subtidal Benthic Invertebrate Conservation,51,79,0.64556962
+gemma_9b,closed_book,Sustainable Aquaculture,11,18,0.611111111
+gemma_9b,closed_book,Terrestrial Mammal Conservation,118,188,0.627659575
+gemma_9b,confused,Amphibian Conservation,83,91,0.912087912
+gemma_9b,confused,Bat Conservation,44,46,0.956521739
+gemma_9b,confused,Bee Conservation,36,38,0.947368421
+gemma_9b,confused,Biodiversity of Marine Artificial Structures,34,35,0.971428571
+gemma_9b,confused,Bird Conservation,284,321,0.884735203
+gemma_9b,confused,Butterfly and Moth Conservation,104,115,0.904347826
+gemma_9b,confused,Control of Freshwater Invasive Species,43,50,0.86
+gemma_9b,confused,Farmland Conservation,70,73,0.95890411
+gemma_9b,confused,Forest Conservation,42,50,0.84
+gemma_9b,confused,Grassland Conservation,30,30,1
+gemma_9b,confused,Management of Captive Animals,32,34,0.941176471
+gemma_9b,confused,Marine Fish Conservation,61,71,0.85915493
+gemma_9b,confused,Marine and Freshwater Mammal Conservation,36,39,0.923076923
+gemma_9b,confused,Marsh and Swamp Conservation,168,181,0.928176796
+gemma_9b,confused,Mediterranean Farmland,55,57,0.964912281
+gemma_9b,confused,Natural Pest Control,15,15,1
+gemma_9b,confused,Peatland Conservation,56,62,0.903225807
+gemma_9b,confused,Primate Conservation,51,57,0.894736842
+gemma_9b,confused,Reptile Conservation,137,155,0.883870968
+gemma_9b,confused,Shrubland and Heathland Conservation,40,43,0.930232558
+gemma_9b,confused,Soil Fertility,19,19,1
+gemma_9b,confused,Subtidal Benthic Invertebrate Conservation,73,79,0.924050633
+gemma_9b,confused,Sustainable Aquaculture,17,18,0.944444444
+gemma_9b,confused,Terrestrial Mammal Conservation,177,188,0.941489362
+gemma_9b,dense_retrieval,Amphibian Conservation,81,91,0.89010989
+gemma_9b,dense_retrieval,Bat Conservation,38,46,0.826086957
+gemma_9b,dense_retrieval,Bee Conservation,33,38,0.868421053
+gemma_9b,dense_retrieval,Biodiversity of Marine Artificial Structures,31,35,0.885714286
+gemma_9b,dense_retrieval,Bird Conservation,270,321,0.841121495
+gemma_9b,dense_retrieval,Butterfly and Moth Conservation,84,115,0.730434783
+gemma_9b,dense_retrieval,Control of Freshwater Invasive Species,39,50,0.78
+gemma_9b,dense_retrieval,Farmland Conservation,63,73,0.863013699
+gemma_9b,dense_retrieval,Forest Conservation,39,50,0.78
+gemma_9b,dense_retrieval,Grassland Conservation,28,30,0.933333333
+gemma_9b,dense_retrieval,Management of Captive Animals,31,34,0.911764706
+gemma_9b,dense_retrieval,Marine Fish Conservation,52,71,0.732394366
+gemma_9b,dense_retrieval,Marine and Freshwater Mammal Conservation,35,39,0.897435897
+gemma_9b,dense_retrieval,Marsh and Swamp Conservation,149,181,0.82320442
+gemma_9b,dense_retrieval,Mediterranean Farmland,47,57,0.824561404
+gemma_9b,dense_retrieval,Natural Pest Control,15,15,1
+gemma_9b,dense_retrieval,Peatland Conservation,47,62,0.758064516
+gemma_9b,dense_retrieval,Primate Conservation,48,57,0.842105263
+gemma_9b,dense_retrieval,Reptile Conservation,105,155,0.677419355
+gemma_9b,dense_retrieval,Shrubland and Heathland Conservation,35,43,0.813953488
+gemma_9b,dense_retrieval,Soil Fertility,16,19,0.842105263
+gemma_9b,dense_retrieval,Subtidal Benthic Invertebrate Conservation,67,79,0.848101266
+gemma_9b,dense_retrieval,Sustainable Aquaculture,15,18,0.833333333
+gemma_9b,dense_retrieval,Terrestrial Mammal Conservation,157,188,0.835106383
+gemma_9b,hybrid_retrieval,Amphibian Conservation,81,91,0.89010989
+gemma_9b,hybrid_retrieval,Bat Conservation,41,46,0.891304348
+gemma_9b,hybrid_retrieval,Bee Conservation,36,38,0.947368421
+gemma_9b,hybrid_retrieval,Biodiversity of Marine Artificial Structures,32,35,0.914285714
+gemma_9b,hybrid_retrieval,Bird Conservation,272,321,0.847352025
+gemma_9b,hybrid_retrieval,Butterfly and Moth Conservation,93,115,0.808695652
+gemma_9b,hybrid_retrieval,Control of Freshwater Invasive Species,40,50,0.8
+gemma_9b,hybrid_retrieval,Farmland Conservation,67,73,0.917808219
+gemma_9b,hybrid_retrieval,Forest Conservation,39,50,0.78
+gemma_9b,hybrid_retrieval,Grassland Conservation,28,30,0.933333333
+gemma_9b,hybrid_retrieval,Management of Captive Animals,31,34,0.911764706
+gemma_9b,hybrid_retrieval,Marine Fish Conservation,55,71,0.774647887
+gemma_9b,hybrid_retrieval,Marine and Freshwater Mammal Conservation,36,39,0.923076923
+gemma_9b,hybrid_retrieval,Marsh and Swamp Conservation,162,181,0.895027624
+gemma_9b,hybrid_retrieval,Mediterranean Farmland,52,57,0.912280702
+gemma_9b,hybrid_retrieval,Natural Pest Control,15,15,1
+gemma_9b,hybrid_retrieval,Peatland Conservation,51,62,0.822580645
+gemma_9b,hybrid_retrieval,Primate Conservation,48,57,0.842105263
+gemma_9b,hybrid_retrieval,Reptile Conservation,122,155,0.787096774
+gemma_9b,hybrid_retrieval,Shrubland and Heathland Conservation,39,43,0.906976744
+gemma_9b,hybrid_retrieval,Soil Fertility,16,19,0.842105263
+gemma_9b,hybrid_retrieval,Subtidal Benthic Invertebrate Conservation,69,79,0.873417722
+gemma_9b,hybrid_retrieval,Sustainable Aquaculture,16,18,0.888888889
+gemma_9b,hybrid_retrieval,Terrestrial Mammal Conservation,162,188,0.861702128
+gemma_9b,oracle,Amphibian Conservation,84,91,0.923076923
+gemma_9b,oracle,Bat Conservation,43,46,0.934782609
+gemma_9b,oracle,Bee Conservation,37,38,0.973684211
+gemma_9b,oracle,Biodiversity of Marine Artificial Structures,34,35,0.971428571
+gemma_9b,oracle,Bird Conservation,292,321,0.909657321
+gemma_9b,oracle,Butterfly and Moth Conservation,104,115,0.904347826
+gemma_9b,oracle,Control of Freshwater Invasive Species,44,50,0.88
+gemma_9b,oracle,Farmland Conservation,71,73,0.97260274
+gemma_9b,oracle,Forest Conservation,44,50,0.88
+gemma_9b,oracle,Grassland Conservation,30,30,1
+gemma_9b,oracle,Management of Captive Animals,32,34,0.941176471
+gemma_9b,oracle,Marine Fish Conservation,62,71,0.873239437
+gemma_9b,oracle,Marine and Freshwater Mammal Conservation,34,39,0.871794872
+gemma_9b,oracle,Marsh and Swamp Conservation,174,181,0.961325967
+gemma_9b,oracle,Mediterranean Farmland,55,57,0.964912281
+gemma_9b,oracle,Natural Pest Control,14,15,0.933333333
+gemma_9b,oracle,Peatland Conservation,56,62,0.903225807
+gemma_9b,oracle,Primate Conservation,51,57,0.894736842
+gemma_9b,oracle,Reptile Conservation,139,155,0.896774194
+gemma_9b,oracle,Shrubland and Heathland Conservation,40,43,0.930232558
+gemma_9b,oracle,Soil Fertility,19,19,1
+gemma_9b,oracle,Subtidal Benthic Invertebrate Conservation,72,79,0.911392405
+gemma_9b,oracle,Sustainable Aquaculture,17,18,0.944444444
+gemma_9b,oracle,Terrestrial Mammal Conservation,179,188,0.95212766
+gemma_9b,sparse_retrieval,Amphibian Conservation,76,91,0.835164835
+gemma_9b,sparse_retrieval,Bat Conservation,39,46,0.847826087
+gemma_9b,sparse_retrieval,Bee Conservation,34,38,0.894736842
+gemma_9b,sparse_retrieval,Biodiversity of Marine Artificial Structures,33,35,0.942857143
+gemma_9b,sparse_retrieval,Bird Conservation,233,321,0.725856698
+gemma_9b,sparse_retrieval,Butterfly and Moth Conservation,87,115,0.756521739
+gemma_9b,sparse_retrieval,Control of Freshwater Invasive Species,35,50,0.7
+gemma_9b,sparse_retrieval,Farmland Conservation,67,73,0.917808219
+gemma_9b,sparse_retrieval,Forest Conservation,33,50,0.66
+gemma_9b,sparse_retrieval,Grassland Conservation,27,30,0.9
+gemma_9b,sparse_retrieval,Management of Captive Animals,24,34,0.705882353
+gemma_9b,sparse_retrieval,Marine Fish Conservation,54,71,0.76056338
+gemma_9b,sparse_retrieval,Marine and Freshwater Mammal Conservation,30,39,0.769230769
+gemma_9b,sparse_retrieval,Marsh and Swamp Conservation,151,181,0.834254144
+gemma_9b,sparse_retrieval,Mediterranean Farmland,43,57,0.754385965
+gemma_9b,sparse_retrieval,Natural Pest Control,13,15,0.866666667
+gemma_9b,sparse_retrieval,Peatland Conservation,51,62,0.822580645
+gemma_9b,sparse_retrieval,Primate Conservation,44,57,0.771929825
+gemma_9b,sparse_retrieval,Reptile Conservation,118,155,0.761290323
+gemma_9b,sparse_retrieval,Shrubland and Heathland Conservation,34,43,0.790697674
+gemma_9b,sparse_retrieval,Soil Fertility,14,19,0.736842105
+gemma_9b,sparse_retrieval,Subtidal Benthic Invertebrate Conservation,67,79,0.848101266
+gemma_9b,sparse_retrieval,Sustainable Aquaculture,16,18,0.888888889
+gemma_9b,sparse_retrieval,Terrestrial Mammal Conservation,152,188,0.808510638
+gpt_4o,closed_book,Amphibian Conservation,70,91,0.769230769
+gpt_4o,closed_book,Bat Conservation,36,46,0.782608696
+gpt_4o,closed_book,Bee Conservation,29,38,0.763157895
+gpt_4o,closed_book,Biodiversity of Marine Artificial Structures,30,35,0.857142857
+gpt_4o,closed_book,Bird Conservation,218,321,0.679127726
+gpt_4o,closed_book,Butterfly and Moth Conservation,79,115,0.686956522
+gpt_4o,closed_book,Control of Freshwater Invasive Species,35,50,0.7
+gpt_4o,closed_book,Farmland Conservation,54,73,0.739726027
+gpt_4o,closed_book,Forest Conservation,31,50,0.62
+gpt_4o,closed_book,Grassland Conservation,19,30,0.633333333
+gpt_4o,closed_book,Management of Captive Animals,27,34,0.794117647
+gpt_4o,closed_book,Marine Fish Conservation,53,71,0.746478873
+gpt_4o,closed_book,Marine and Freshwater Mammal Conservation,32,39,0.820512821
+gpt_4o,closed_book,Marsh and Swamp Conservation,114,181,0.629834254
+gpt_4o,closed_book,Mediterranean Farmland,42,57,0.736842105
+gpt_4o,closed_book,Natural Pest Control,12,15,0.8
+gpt_4o,closed_book,Peatland Conservation,41,62,0.661290323
+gpt_4o,closed_book,Primate Conservation,44,57,0.771929825
+gpt_4o,closed_book,Reptile Conservation,96,155,0.619354839
+gpt_4o,closed_book,Shrubland and Heathland Conservation,32,43,0.744186047
+gpt_4o,closed_book,Soil Fertility,14,19,0.736842105
+gpt_4o,closed_book,Subtidal Benthic Invertebrate Conservation,58,79,0.734177215
+gpt_4o,closed_book,Sustainable Aquaculture,12,18,0.666666667
+gpt_4o,closed_book,Terrestrial Mammal Conservation,125,188,0.664893617
+gpt_4o,confused,Amphibian Conservation,89,91,0.978021978
+gpt_4o,confused,Bat Conservation,45,46,0.97826087
+gpt_4o,confused,Bee Conservation,38,38,1
+gpt_4o,confused,Biodiversity of Marine Artificial Structures,34,35,0.971428571
+gpt_4o,confused,Bird Conservation,298,321,0.92834891
+gpt_4o,confused,Butterfly and Moth Conservation,107,115,0.930434783
+gpt_4o,confused,Control of Freshwater Invasive Species,45,50,0.9
+gpt_4o,confused,Farmland Conservation,73,73,1
+gpt_4o,confused,Forest Conservation,47,50,0.94
+gpt_4o,confused,Grassland Conservation,29,30,0.966666667
+gpt_4o,confused,Management of Captive Animals,33,34,0.970588235
+gpt_4o,confused,Marine Fish Conservation,65,71,0.915492958
+gpt_4o,confused,Marine and Freshwater Mammal Conservation,34,39,0.871794872
+gpt_4o,confused,Marsh and Swamp Conservation,172,181,0.950276243
+gpt_4o,confused,Mediterranean Farmland,56,57,0.98245614
+gpt_4o,confused,Natural Pest Control,15,15,1
+gpt_4o,confused,Peatland Conservation,60,62,0.967741936
+gpt_4o,confused,Primate Conservation,49,57,0.859649123
+gpt_4o,confused,Reptile Conservation,142,155,0.916129032
+gpt_4o,confused,Shrubland and Heathland Conservation,43,43,1
+gpt_4o,confused,Soil Fertility,19,19,1
+gpt_4o,confused,Subtidal Benthic Invertebrate Conservation,75,79,0.949367089
+gpt_4o,confused,Sustainable Aquaculture,18,18,1
+gpt_4o,confused,Terrestrial Mammal Conservation,176,188,0.936170213
+gpt_4o,dense_retrieval,Amphibian Conservation,84,91,0.923076923
+gpt_4o,dense_retrieval,Bat Conservation,41,46,0.891304348
+gpt_4o,dense_retrieval,Bee Conservation,35,38,0.921052632
+gpt_4o,dense_retrieval,Biodiversity of Marine Artificial Structures,31,35,0.885714286
+gpt_4o,dense_retrieval,Bird Conservation,287,321,0.894080997
+gpt_4o,dense_retrieval,Butterfly and Moth Conservation,86,115,0.747826087
+gpt_4o,dense_retrieval,Control of Freshwater Invasive Species,45,50,0.9
+gpt_4o,dense_retrieval,Farmland Conservation,67,73,0.917808219
+gpt_4o,dense_retrieval,Forest Conservation,46,50,0.92
+gpt_4o,dense_retrieval,Grassland Conservation,24,30,0.8
+gpt_4o,dense_retrieval,Management of Captive Animals,32,34,0.941176471
+gpt_4o,dense_retrieval,Marine Fish Conservation,55,71,0.774647887
+gpt_4o,dense_retrieval,Marine and Freshwater Mammal Conservation,35,39,0.897435897
+gpt_4o,dense_retrieval,Marsh and Swamp Conservation,154,181,0.850828729
+gpt_4o,dense_retrieval,Mediterranean Farmland,47,57,0.824561404
+gpt_4o,dense_retrieval,Natural Pest Control,15,15,1
+gpt_4o,dense_retrieval,Peatland Conservation,50,62,0.806451613
+gpt_4o,dense_retrieval,Primate Conservation,44,57,0.771929825
+gpt_4o,dense_retrieval,Reptile Conservation,123,155,0.793548387
+gpt_4o,dense_retrieval,Shrubland and Heathland Conservation,37,43,0.860465116
+gpt_4o,dense_retrieval,Soil Fertility,17,19,0.894736842
+gpt_4o,dense_retrieval,Subtidal Benthic Invertebrate Conservation,72,79,0.911392405
+gpt_4o,dense_retrieval,Sustainable Aquaculture,17,18,0.944444444
+gpt_4o,dense_retrieval,Terrestrial Mammal Conservation,162,188,0.861702128
+gpt_4o,hybrid_retrieval,Amphibian Conservation,85,91,0.934065934
+gpt_4o,hybrid_retrieval,Bat Conservation,44,46,0.956521739
+gpt_4o,hybrid_retrieval,Bee Conservation,36,38,0.947368421
+gpt_4o,hybrid_retrieval,Biodiversity of Marine Artificial Structures,33,35,0.942857143
+gpt_4o,hybrid_retrieval,Bird Conservation,293,321,0.912772586
+gpt_4o,hybrid_retrieval,Butterfly and Moth Conservation,100,115,0.869565217
+gpt_4o,hybrid_retrieval,Control of Freshwater Invasive Species,43,50,0.86
+gpt_4o,hybrid_retrieval,Farmland Conservation,71,73,0.97260274
+gpt_4o,hybrid_retrieval,Forest Conservation,45,50,0.9
+gpt_4o,hybrid_retrieval,Grassland Conservation,26,30,0.866666667
+gpt_4o,hybrid_retrieval,Management of Captive Animals,32,34,0.941176471
+gpt_4o,hybrid_retrieval,Marine Fish Conservation,57,71,0.802816901
+gpt_4o,hybrid_retrieval,Marine and Freshwater Mammal Conservation,36,39,0.923076923
+gpt_4o,hybrid_retrieval,Marsh and Swamp Conservation,166,181,0.917127072
+gpt_4o,hybrid_retrieval,Mediterranean Farmland,51,57,0.894736842
+gpt_4o,hybrid_retrieval,Natural Pest Control,15,15,1
+gpt_4o,hybrid_retrieval,Peatland Conservation,56,62,0.903225807
+gpt_4o,hybrid_retrieval,Primate Conservation,47,57,0.824561404
+gpt_4o,hybrid_retrieval,Reptile Conservation,131,155,0.84516129
+gpt_4o,hybrid_retrieval,Shrubland and Heathland Conservation,38,43,0.88372093
+gpt_4o,hybrid_retrieval,Soil Fertility,18,19,0.947368421
+gpt_4o,hybrid_retrieval,Subtidal Benthic Invertebrate Conservation,75,79,0.949367089
+gpt_4o,hybrid_retrieval,Sustainable Aquaculture,17,18,0.944444444
+gpt_4o,hybrid_retrieval,Terrestrial Mammal Conservation,169,188,0.89893617
+gpt_4o,oracle,Amphibian Conservation,89,91,0.978021978
+gpt_4o,oracle,Bat Conservation,46,46,1
+gpt_4o,oracle,Bee Conservation,38,38,1
+gpt_4o,oracle,Biodiversity of Marine Artificial Structures,34,35,0.971428571
+gpt_4o,oracle,Bird Conservation,301,321,0.937694704
+gpt_4o,oracle,Butterfly and Moth Conservation,109,115,0.947826087
+gpt_4o,oracle,Control of Freshwater Invasive Species,47,50,0.94
+gpt_4o,oracle,Farmland Conservation,73,73,1
+gpt_4o,oracle,Forest Conservation,48,50,0.96
+gpt_4o,oracle,Grassland Conservation,30,30,1
+gpt_4o,oracle,Management of Captive Animals,33,34,0.970588235
+gpt_4o,oracle,Marine Fish Conservation,64,71,0.901408451
+gpt_4o,oracle,Marine and Freshwater Mammal Conservation,35,39,0.897435897
+gpt_4o,oracle,Marsh and Swamp Conservation,173,181,0.955801105
+gpt_4o,oracle,Mediterranean Farmland,57,57,1
+gpt_4o,oracle,Natural Pest Control,15,15,1
+gpt_4o,oracle,Peatland Conservation,61,62,0.983870968
+gpt_4o,oracle,Primate Conservation,49,57,0.859649123
+gpt_4o,oracle,Reptile Conservation,146,155,0.941935484
+gpt_4o,oracle,Shrubland and Heathland Conservation,42,43,0.976744186
+gpt_4o,oracle,Soil Fertility,19,19,1
+gpt_4o,oracle,Subtidal Benthic Invertebrate Conservation,77,79,0.974683544
+gpt_4o,oracle,Sustainable Aquaculture,18,18,1
+gpt_4o,oracle,Terrestrial Mammal Conservation,176,188,0.936170213
+gpt_4o,sparse_retrieval,Amphibian Conservation,79,91,0.868131868
+gpt_4o,sparse_retrieval,Bat Conservation,42,46,0.913043478
+gpt_4o,sparse_retrieval,Bee Conservation,36,38,0.947368421
+gpt_4o,sparse_retrieval,Biodiversity of Marine Artificial Structures,35,35,1
+gpt_4o,sparse_retrieval,Bird Conservation,245,321,0.763239875
+gpt_4o,sparse_retrieval,Butterfly and Moth Conservation,90,115,0.782608696
+gpt_4o,sparse_retrieval,Control of Freshwater Invasive Species,37,50,0.74
+gpt_4o,sparse_retrieval,Farmland Conservation,69,73,0.94520548
+gpt_4o,sparse_retrieval,Forest Conservation,42,50,0.84
+gpt_4o,sparse_retrieval,Grassland Conservation,24,30,0.8
+gpt_4o,sparse_retrieval,Management of Captive Animals,29,34,0.852941177
+gpt_4o,sparse_retrieval,Marine Fish Conservation,58,71,0.816901409
+gpt_4o,sparse_retrieval,Marine and Freshwater Mammal Conservation,32,39,0.820512821
+gpt_4o,sparse_retrieval,Marsh and Swamp Conservation,156,181,0.861878453
+gpt_4o,sparse_retrieval,Mediterranean Farmland,43,57,0.754385965
+gpt_4o,sparse_retrieval,Natural Pest Control,14,15,0.933333333
+gpt_4o,sparse_retrieval,Peatland Conservation,52,62,0.838709677
+gpt_4o,sparse_retrieval,Primate Conservation,45,57,0.789473684
+gpt_4o,sparse_retrieval,Reptile Conservation,125,155,0.806451613
+gpt_4o,sparse_retrieval,Shrubland and Heathland Conservation,35,43,0.813953488
+gpt_4o,sparse_retrieval,Soil Fertility,17,19,0.894736842
+gpt_4o,sparse_retrieval,Subtidal Benthic Invertebrate Conservation,71,79,0.898734177
+gpt_4o,sparse_retrieval,Sustainable Aquaculture,17,18,0.944444444
+gpt_4o,sparse_retrieval,Terrestrial Mammal Conservation,161,188,0.856382979
+gpt_4o_mini,closed_book,Amphibian Conservation,67,91,0.736263736
+gpt_4o_mini,closed_book,Bat Conservation,39,46,0.847826087
+gpt_4o_mini,closed_book,Bee Conservation,27,38,0.710526316
+gpt_4o_mini,closed_book,Biodiversity of Marine Artificial Structures,31,35,0.885714286
+gpt_4o_mini,closed_book,Bird Conservation,201,321,0.626168224
+gpt_4o_mini,closed_book,Butterfly and Moth Conservation,73,115,0.634782609
+gpt_4o_mini,closed_book,Control of Freshwater Invasive Species,31,50,0.62
+gpt_4o_mini,closed_book,Farmland Conservation,53,73,0.726027397
+gpt_4o_mini,closed_book,Forest Conservation,32,50,0.64
+gpt_4o_mini,closed_book,Grassland Conservation,18,30,0.6
+gpt_4o_mini,closed_book,Management of Captive Animals,23,34,0.676470588
+gpt_4o_mini,closed_book,Marine Fish Conservation,53,71,0.746478873
+gpt_4o_mini,closed_book,Marine and Freshwater Mammal Conservation,31,39,0.794871795
+gpt_4o_mini,closed_book,Marsh and Swamp Conservation,105,181,0.580110497
+gpt_4o_mini,closed_book,Mediterranean Farmland,40,57,0.701754386
+gpt_4o_mini,closed_book,Natural Pest Control,12,15,0.8
+gpt_4o_mini,closed_book,Peatland Conservation,40,62,0.64516129
+gpt_4o_mini,closed_book,Primate Conservation,46,57,0.807017544
+gpt_4o_mini,closed_book,Reptile Conservation,88,155,0.567741936
+gpt_4o_mini,closed_book,Shrubland and Heathland Conservation,29,43,0.674418605
+gpt_4o_mini,closed_book,Soil Fertility,13,19,0.684210526
+gpt_4o_mini,closed_book,Subtidal Benthic Invertebrate Conservation,52,79,0.658227848
+gpt_4o_mini,closed_book,Sustainable Aquaculture,13,18,0.722222222
+gpt_4o_mini,closed_book,Terrestrial Mammal Conservation,125,188,0.664893617
+gpt_4o_mini,confused,Amphibian Conservation,84,91,0.923076923
+gpt_4o_mini,confused,Bat Conservation,44,46,0.956521739
+gpt_4o_mini,confused,Bee Conservation,37,38,0.973684211
+gpt_4o_mini,confused,Biodiversity of Marine Artificial Structures,34,35,0.971428571
+gpt_4o_mini,confused,Bird Conservation,286,321,0.890965732
+gpt_4o_mini,confused,Butterfly and Moth Conservation,105,115,0.913043478
+gpt_4o_mini,confused,Control of Freshwater Invasive Species,40,50,0.8
+gpt_4o_mini,confused,Farmland Conservation,72,73,0.98630137
+gpt_4o_mini,confused,Forest Conservation,47,50,0.94
+gpt_4o_mini,confused,Grassland Conservation,27,30,0.9
+gpt_4o_mini,confused,Management of Captive Animals,33,34,0.970588235
+gpt_4o_mini,confused,Marine Fish Conservation,63,71,0.887323944
+gpt_4o_mini,confused,Marine and Freshwater Mammal Conservation,36,39,0.923076923
+gpt_4o_mini,confused,Marsh and Swamp Conservation,167,181,0.922651934
+gpt_4o_mini,confused,Mediterranean Farmland,53,57,0.929824561
+gpt_4o_mini,confused,Natural Pest Control,15,15,1
+gpt_4o_mini,confused,Peatland Conservation,60,62,0.967741936
+gpt_4o_mini,confused,Primate Conservation,50,57,0.877192983
+gpt_4o_mini,confused,Reptile Conservation,131,155,0.84516129
+gpt_4o_mini,confused,Shrubland and Heathland Conservation,38,43,0.88372093
+gpt_4o_mini,confused,Soil Fertility,18,19,0.947368421
+gpt_4o_mini,confused,Subtidal Benthic Invertebrate Conservation,72,79,0.911392405
+gpt_4o_mini,confused,Sustainable Aquaculture,18,18,1
+gpt_4o_mini,confused,Terrestrial Mammal Conservation,174,188,0.925531915
+gpt_4o_mini,dense_retrieval,Amphibian Conservation,82,91,0.901098901
+gpt_4o_mini,dense_retrieval,Bat Conservation,40,46,0.869565217
+gpt_4o_mini,dense_retrieval,Bee Conservation,33,38,0.868421053
+gpt_4o_mini,dense_retrieval,Biodiversity of Marine Artificial Structures,31,35,0.885714286
+gpt_4o_mini,dense_retrieval,Bird Conservation,279,321,0.869158879
+gpt_4o_mini,dense_retrieval,Butterfly and Moth Conservation,84,115,0.730434783
+gpt_4o_mini,dense_retrieval,Control of Freshwater Invasive Species,42,50,0.84
+gpt_4o_mini,dense_retrieval,Farmland Conservation,65,73,0.890410959
+gpt_4o_mini,dense_retrieval,Forest Conservation,45,50,0.9
+gpt_4o_mini,dense_retrieval,Grassland Conservation,27,30,0.9
+gpt_4o_mini,dense_retrieval,Management of Captive Animals,31,34,0.911764706
+gpt_4o_mini,dense_retrieval,Marine Fish Conservation,57,71,0.802816901
+gpt_4o_mini,dense_retrieval,Marine and Freshwater Mammal Conservation,35,39,0.897435897
+gpt_4o_mini,dense_retrieval,Marsh and Swamp Conservation,152,181,0.839779006
+gpt_4o_mini,dense_retrieval,Mediterranean Farmland,46,57,0.807017544
+gpt_4o_mini,dense_retrieval,Natural Pest Control,14,15,0.933333333
+gpt_4o_mini,dense_retrieval,Peatland Conservation,50,62,0.806451613
+gpt_4o_mini,dense_retrieval,Primate Conservation,47,57,0.824561404
+gpt_4o_mini,dense_retrieval,Reptile Conservation,112,155,0.722580645
+gpt_4o_mini,dense_retrieval,Shrubland and Heathland Conservation,29,43,0.674418605
+gpt_4o_mini,dense_retrieval,Soil Fertility,15,19,0.789473684
+gpt_4o_mini,dense_retrieval,Subtidal Benthic Invertebrate Conservation,69,79,0.873417722
+gpt_4o_mini,dense_retrieval,Sustainable Aquaculture,17,18,0.944444444
+gpt_4o_mini,dense_retrieval,Terrestrial Mammal Conservation,156,188,0.829787234
+gpt_4o_mini,hybrid_retrieval,Amphibian Conservation,83,91,0.912087912
+gpt_4o_mini,hybrid_retrieval,Bat Conservation,43,46,0.934782609
+gpt_4o_mini,hybrid_retrieval,Bee Conservation,37,38,0.973684211
+gpt_4o_mini,hybrid_retrieval,Biodiversity of Marine Artificial Structures,34,35,0.971428571
+gpt_4o_mini,hybrid_retrieval,Bird Conservation,277,321,0.862928349
+gpt_4o_mini,hybrid_retrieval,Butterfly and Moth Conservation,98,115,0.852173913
+gpt_4o_mini,hybrid_retrieval,Control of Freshwater Invasive Species,37,50,0.74
+gpt_4o_mini,hybrid_retrieval,Farmland Conservation,70,73,0.95890411
+gpt_4o_mini,hybrid_retrieval,Forest Conservation,42,50,0.84
+gpt_4o_mini,hybrid_retrieval,Grassland Conservation,27,30,0.9
+gpt_4o_mini,hybrid_retrieval,Management of Captive Animals,30,34,0.882352941
+gpt_4o_mini,hybrid_retrieval,Marine Fish Conservation,57,71,0.802816901
+gpt_4o_mini,hybrid_retrieval,Marine and Freshwater Mammal Conservation,35,39,0.897435897
+gpt_4o_mini,hybrid_retrieval,Marsh and Swamp Conservation,162,181,0.895027624
+gpt_4o_mini,hybrid_retrieval,Mediterranean Farmland,49,57,0.859649123
+gpt_4o_mini,hybrid_retrieval,Natural Pest Control,15,15,1
+gpt_4o_mini,hybrid_retrieval,Peatland Conservation,53,62,0.85483871
+gpt_4o_mini,hybrid_retrieval,Primate Conservation,47,57,0.824561404
+gpt_4o_mini,hybrid_retrieval,Reptile Conservation,124,155,0.8
+gpt_4o_mini,hybrid_retrieval,Shrubland and Heathland Conservation,34,43,0.790697674
+gpt_4o_mini,hybrid_retrieval,Soil Fertility,17,19,0.894736842
+gpt_4o_mini,hybrid_retrieval,Subtidal Benthic Invertebrate Conservation,71,79,0.898734177
+gpt_4o_mini,hybrid_retrieval,Sustainable Aquaculture,18,18,1
+gpt_4o_mini,hybrid_retrieval,Terrestrial Mammal Conservation,155,188,0.824468085
+gpt_4o_mini,oracle,Amphibian Conservation,87,91,0.956043956
+gpt_4o_mini,oracle,Bat Conservation,45,46,0.97826087
+gpt_4o_mini,oracle,Bee Conservation,38,38,1
+gpt_4o_mini,oracle,Biodiversity of Marine Artificial Structures,34,35,0.971428571
+gpt_4o_mini,oracle,Bird Conservation,290,321,0.903426791
+gpt_4o_mini,oracle,Butterfly and Moth Conservation,106,115,0.92173913
+gpt_4o_mini,oracle,Control of Freshwater Invasive Species,43,50,0.86
+gpt_4o_mini,oracle,Farmland Conservation,73,73,1
+gpt_4o_mini,oracle,Forest Conservation,45,50,0.9
+gpt_4o_mini,oracle,Grassland Conservation,28,30,0.933333333
+gpt_4o_mini,oracle,Management of Captive Animals,33,34,0.970588235
+gpt_4o_mini,oracle,Marine Fish Conservation,61,71,0.85915493
+gpt_4o_mini,oracle,Marine and Freshwater Mammal Conservation,35,39,0.897435897
+gpt_4o_mini,oracle,Marsh and Swamp Conservation,169,181,0.933701658
+gpt_4o_mini,oracle,Mediterranean Farmland,56,57,0.98245614
+gpt_4o_mini,oracle,Natural Pest Control,15,15,1
+gpt_4o_mini,oracle,Peatland Conservation,60,62,0.967741936
+gpt_4o_mini,oracle,Primate Conservation,52,57,0.912280702
+gpt_4o_mini,oracle,Reptile Conservation,134,155,0.864516129
+gpt_4o_mini,oracle,Shrubland and Heathland Conservation,40,43,0.930232558
+gpt_4o_mini,oracle,Soil Fertility,19,19,1
+gpt_4o_mini,oracle,Subtidal Benthic Invertebrate Conservation,72,79,0.911392405
+gpt_4o_mini,oracle,Sustainable Aquaculture,18,18,1
+gpt_4o_mini,oracle,Terrestrial Mammal Conservation,173,188,0.920212766
+gpt_4o_mini,sparse_retrieval,Amphibian Conservation,77,91,0.846153846
+gpt_4o_mini,sparse_retrieval,Bat Conservation,40,46,0.869565217
+gpt_4o_mini,sparse_retrieval,Bee Conservation,36,38,0.947368421
+gpt_4o_mini,sparse_retrieval,Biodiversity of Marine Artificial Structures,34,35,0.971428571
+gpt_4o_mini,sparse_retrieval,Bird Conservation,244,321,0.760124611
+gpt_4o_mini,sparse_retrieval,Butterfly and Moth Conservation,90,115,0.782608696
+gpt_4o_mini,sparse_retrieval,Control of Freshwater Invasive Species,32,50,0.64
+gpt_4o_mini,sparse_retrieval,Farmland Conservation,69,73,0.94520548
+gpt_4o_mini,sparse_retrieval,Forest Conservation,40,50,0.8
+gpt_4o_mini,sparse_retrieval,Grassland Conservation,24,30,0.8
+gpt_4o_mini,sparse_retrieval,Management of Captive Animals,27,34,0.794117647
+gpt_4o_mini,sparse_retrieval,Marine Fish Conservation,59,71,0.830985916
+gpt_4o_mini,sparse_retrieval,Marine and Freshwater Mammal Conservation,34,39,0.871794872
+gpt_4o_mini,sparse_retrieval,Marsh and Swamp Conservation,153,181,0.845303867
+gpt_4o_mini,sparse_retrieval,Mediterranean Farmland,45,57,0.789473684
+gpt_4o_mini,sparse_retrieval,Natural Pest Control,14,15,0.933333333
+gpt_4o_mini,sparse_retrieval,Peatland Conservation,49,62,0.790322581
+gpt_4o_mini,sparse_retrieval,Primate Conservation,47,57,0.824561404
+gpt_4o_mini,sparse_retrieval,Reptile Conservation,115,155,0.741935484
+gpt_4o_mini,sparse_retrieval,Shrubland and Heathland Conservation,31,43,0.720930233
+gpt_4o_mini,sparse_retrieval,Soil Fertility,16,19,0.842105263
+gpt_4o_mini,sparse_retrieval,Subtidal Benthic Invertebrate Conservation,68,79,0.860759494
+gpt_4o_mini,sparse_retrieval,Sustainable Aquaculture,17,18,0.944444444
+gpt_4o_mini,sparse_retrieval,Terrestrial Mammal Conservation,153,188,0.813829787
+llama_31_70b,closed_book,Amphibian Conservation,68,91,0.747252747
+llama_31_70b,closed_book,Bat Conservation,36,46,0.782608696
+llama_31_70b,closed_book,Bee Conservation,29,38,0.763157895
+llama_31_70b,closed_book,Biodiversity of Marine Artificial Structures,32,35,0.914285714
+llama_31_70b,closed_book,Bird Conservation,220,321,0.685358256
+llama_31_70b,closed_book,Butterfly and Moth Conservation,71,115,0.617391304
+llama_31_70b,closed_book,Control of Freshwater Invasive Species,30,50,0.6
+llama_31_70b,closed_book,Farmland Conservation,55,73,0.753424658
+llama_31_70b,closed_book,Forest Conservation,33,50,0.66
+llama_31_70b,closed_book,Grassland Conservation,18,30,0.6
+llama_31_70b,closed_book,Management of Captive Animals,26,34,0.764705882
+llama_31_70b,closed_book,Marine Fish Conservation,56,71,0.788732394
+llama_31_70b,closed_book,Marine and Freshwater Mammal Conservation,33,39,0.846153846
+llama_31_70b,closed_book,Marsh and Swamp Conservation,117,181,0.64640884
+llama_31_70b,closed_book,Mediterranean Farmland,37,57,0.649122807
+llama_31_70b,closed_book,Natural Pest Control,10,15,0.666666667
+llama_31_70b,closed_book,Peatland Conservation,34,62,0.548387097
+llama_31_70b,closed_book,Primate Conservation,49,57,0.859649123
+llama_31_70b,closed_book,Reptile Conservation,103,155,0.664516129
+llama_31_70b,closed_book,Shrubland and Heathland Conservation,22,43,0.511627907
+llama_31_70b,closed_book,Soil Fertility,12,19,0.631578947
+llama_31_70b,closed_book,Subtidal Benthic Invertebrate Conservation,56,79,0.70886076
+llama_31_70b,closed_book,Sustainable Aquaculture,7,18,0.388888889
+llama_31_70b,closed_book,Terrestrial Mammal Conservation,128,188,0.680851064
+llama_31_70b,confused,Amphibian Conservation,88,91,0.967032967
+llama_31_70b,confused,Bat Conservation,45,46,0.97826087
+llama_31_70b,confused,Bee Conservation,38,38,1
+llama_31_70b,confused,Biodiversity of Marine Artificial Structures,34,35,0.971428571
+llama_31_70b,confused,Bird Conservation,293,321,0.912772586
+llama_31_70b,confused,Butterfly and Moth Conservation,105,115,0.913043478
+llama_31_70b,confused,Control of Freshwater Invasive Species,45,50,0.9
+llama_31_70b,confused,Farmland Conservation,71,73,0.97260274
+llama_31_70b,confused,Forest Conservation,47,50,0.94
+llama_31_70b,confused,Grassland Conservation,29,30,0.966666667
+llama_31_70b,confused,Management of Captive Animals,32,34,0.941176471
+llama_31_70b,confused,Marine Fish Conservation,60,71,0.845070423
+llama_31_70b,confused,Marine and Freshwater Mammal Conservation,35,39,0.897435897
+llama_31_70b,confused,Marsh and Swamp Conservation,172,181,0.950276243
+llama_31_70b,confused,Mediterranean Farmland,56,57,0.98245614
+llama_31_70b,confused,Natural Pest Control,15,15,1
+llama_31_70b,confused,Peatland Conservation,55,62,0.887096774
+llama_31_70b,confused,Primate Conservation,51,57,0.894736842
+llama_31_70b,confused,Reptile Conservation,139,155,0.896774194
+llama_31_70b,confused,Shrubland and Heathland Conservation,41,43,0.953488372
+llama_31_70b,confused,Soil Fertility,19,19,1
+llama_31_70b,confused,Subtidal Benthic Invertebrate Conservation,75,79,0.949367089
+llama_31_70b,confused,Sustainable Aquaculture,17,18,0.944444444
+llama_31_70b,confused,Terrestrial Mammal Conservation,169,188,0.89893617
+llama_31_70b,dense_retrieval,Amphibian Conservation,84,91,0.923076923
+llama_31_70b,dense_retrieval,Bat Conservation,41,46,0.891304348
+llama_31_70b,dense_retrieval,Bee Conservation,33,38,0.868421053
+llama_31_70b,dense_retrieval,Biodiversity of Marine Artificial Structures,30,35,0.857142857
+llama_31_70b,dense_retrieval,Bird Conservation,283,321,0.881619938
+llama_31_70b,dense_retrieval,Butterfly and Moth Conservation,87,115,0.756521739
+llama_31_70b,dense_retrieval,Control of Freshwater Invasive Species,42,50,0.84
+llama_31_70b,dense_retrieval,Farmland Conservation,66,73,0.904109589
+llama_31_70b,dense_retrieval,Forest Conservation,45,50,0.9
+llama_31_70b,dense_retrieval,Grassland Conservation,25,30,0.833333333
+llama_31_70b,dense_retrieval,Management of Captive Animals,32,34,0.941176471
+llama_31_70b,dense_retrieval,Marine Fish Conservation,54,71,0.76056338
+llama_31_70b,dense_retrieval,Marine and Freshwater Mammal Conservation,36,39,0.923076923
+llama_31_70b,dense_retrieval,Marsh and Swamp Conservation,158,181,0.872928177
+llama_31_70b,dense_retrieval,Mediterranean Farmland,49,57,0.859649123
+llama_31_70b,dense_retrieval,Natural Pest Control,14,15,0.933333333
+llama_31_70b,dense_retrieval,Peatland Conservation,49,62,0.790322581
+llama_31_70b,dense_retrieval,Primate Conservation,48,57,0.842105263
+llama_31_70b,dense_retrieval,Reptile Conservation,121,155,0.780645161
+llama_31_70b,dense_retrieval,Shrubland and Heathland Conservation,35,43,0.813953488
+llama_31_70b,dense_retrieval,Soil Fertility,17,19,0.894736842
+llama_31_70b,dense_retrieval,Subtidal Benthic Invertebrate Conservation,74,79,0.936708861
+llama_31_70b,dense_retrieval,Sustainable Aquaculture,15,18,0.833333333
+llama_31_70b,dense_retrieval,Terrestrial Mammal Conservation,154,188,0.819148936
+llama_31_70b,hybrid_retrieval,Amphibian Conservation,85,91,0.934065934
+llama_31_70b,hybrid_retrieval,Bat Conservation,43,46,0.934782609
+llama_31_70b,hybrid_retrieval,Bee Conservation,36,38,0.947368421
+llama_31_70b,hybrid_retrieval,Biodiversity of Marine Artificial Structures,32,35,0.914285714
+llama_31_70b,hybrid_retrieval,Bird Conservation,280,321,0.872274143
+llama_31_70b,hybrid_retrieval,Butterfly and Moth Conservation,94,115,0.817391304
+llama_31_70b,hybrid_retrieval,Control of Freshwater Invasive Species,40,50,0.8
+llama_31_70b,hybrid_retrieval,Farmland Conservation,70,73,0.95890411
+llama_31_70b,hybrid_retrieval,Forest Conservation,45,50,0.9
+llama_31_70b,hybrid_retrieval,Grassland Conservation,26,30,0.866666667
+llama_31_70b,hybrid_retrieval,Management of Captive Animals,32,34,0.941176471
+llama_31_70b,hybrid_retrieval,Marine Fish Conservation,55,71,0.774647887
+llama_31_70b,hybrid_retrieval,Marine and Freshwater Mammal Conservation,36,39,0.923076923
+llama_31_70b,hybrid_retrieval,Marsh and Swamp Conservation,168,181,0.928176796
+llama_31_70b,hybrid_retrieval,Mediterranean Farmland,51,57,0.894736842
+llama_31_70b,hybrid_retrieval,Natural Pest Control,14,15,0.933333333
+llama_31_70b,hybrid_retrieval,Peatland Conservation,54,62,0.870967742
+llama_31_70b,hybrid_retrieval,Primate Conservation,51,57,0.894736842
+llama_31_70b,hybrid_retrieval,Reptile Conservation,129,155,0.832258065
+llama_31_70b,hybrid_retrieval,Shrubland and Heathland Conservation,34,43,0.790697674
+llama_31_70b,hybrid_retrieval,Soil Fertility,16,19,0.842105263
+llama_31_70b,hybrid_retrieval,Subtidal Benthic Invertebrate Conservation,73,79,0.924050633
+llama_31_70b,hybrid_retrieval,Sustainable Aquaculture,15,18,0.833333333
+llama_31_70b,hybrid_retrieval,Terrestrial Mammal Conservation,162,188,0.861702128
+llama_31_70b,oracle,Amphibian Conservation,89,91,0.978021978
+llama_31_70b,oracle,Bat Conservation,44,46,0.956521739
+llama_31_70b,oracle,Bee Conservation,37,38,0.973684211
+llama_31_70b,oracle,Biodiversity of Marine Artificial Structures,33,35,0.942857143
+llama_31_70b,oracle,Bird Conservation,299,321,0.931464175
+llama_31_70b,oracle,Butterfly and Moth Conservation,109,115,0.947826087
+llama_31_70b,oracle,Control of Freshwater Invasive Species,46,50,0.92
+llama_31_70b,oracle,Farmland Conservation,72,73,0.98630137
+llama_31_70b,oracle,Forest Conservation,47,50,0.94
+llama_31_70b,oracle,Grassland Conservation,29,30,0.966666667
+llama_31_70b,oracle,Management of Captive Animals,32,34,0.941176471
+llama_31_70b,oracle,Marine Fish Conservation,63,71,0.887323944
+llama_31_70b,oracle,Marine and Freshwater Mammal Conservation,35,39,0.897435897
+llama_31_70b,oracle,Marsh and Swamp Conservation,174,181,0.961325967
+llama_31_70b,oracle,Mediterranean Farmland,57,57,1
+llama_31_70b,oracle,Natural Pest Control,15,15,1
+llama_31_70b,oracle,Peatland Conservation,58,62,0.935483871
+llama_31_70b,oracle,Primate Conservation,52,57,0.912280702
+llama_31_70b,oracle,Reptile Conservation,143,155,0.922580645
+llama_31_70b,oracle,Shrubland and Heathland Conservation,42,43,0.976744186
+llama_31_70b,oracle,Soil Fertility,19,19,1
+llama_31_70b,oracle,Subtidal Benthic Invertebrate Conservation,77,79,0.974683544
+llama_31_70b,oracle,Sustainable Aquaculture,18,18,1
+llama_31_70b,oracle,Terrestrial Mammal Conservation,171,188,0.909574468
+llama_31_70b,sparse_retrieval,Amphibian Conservation,80,91,0.879120879
+llama_31_70b,sparse_retrieval,Bat Conservation,38,46,0.826086957
+llama_31_70b,sparse_retrieval,Bee Conservation,35,38,0.921052632
+llama_31_70b,sparse_retrieval,Biodiversity of Marine Artificial Structures,33,35,0.942857143
+llama_31_70b,sparse_retrieval,Bird Conservation,247,321,0.769470405
+llama_31_70b,sparse_retrieval,Butterfly and Moth Conservation,96,115,0.834782609
+llama_31_70b,sparse_retrieval,Control of Freshwater Invasive Species,32,50,0.64
+llama_31_70b,sparse_retrieval,Farmland Conservation,68,73,0.931506849
+llama_31_70b,sparse_retrieval,Forest Conservation,41,50,0.82
+llama_31_70b,sparse_retrieval,Grassland Conservation,25,30,0.833333333
+llama_31_70b,sparse_retrieval,Management of Captive Animals,26,34,0.764705882
+llama_31_70b,sparse_retrieval,Marine Fish Conservation,57,71,0.802816901
+llama_31_70b,sparse_retrieval,Marine and Freshwater Mammal Conservation,33,39,0.846153846
+llama_31_70b,sparse_retrieval,Marsh and Swamp Conservation,158,181,0.872928177
+llama_31_70b,sparse_retrieval,Mediterranean Farmland,45,57,0.789473684
+llama_31_70b,sparse_retrieval,Natural Pest Control,13,15,0.866666667
+llama_31_70b,sparse_retrieval,Peatland Conservation,50,62,0.806451613
+llama_31_70b,sparse_retrieval,Primate Conservation,46,57,0.807017544
+llama_31_70b,sparse_retrieval,Reptile Conservation,124,155,0.8
+llama_31_70b,sparse_retrieval,Shrubland and Heathland Conservation,33,43,0.767441861
+llama_31_70b,sparse_retrieval,Soil Fertility,17,19,0.894736842
+llama_31_70b,sparse_retrieval,Subtidal Benthic Invertebrate Conservation,73,79,0.924050633
+llama_31_70b,sparse_retrieval,Sustainable Aquaculture,15,18,0.833333333
+llama_31_70b,sparse_retrieval,Terrestrial Mammal Conservation,155,188,0.824468085
+llama_31_8b,closed_book,Amphibian Conservation,64,91,0.703296703
+llama_31_8b,closed_book,Bat Conservation,34,46,0.739130435
+llama_31_8b,closed_book,Bee Conservation,24,38,0.631578947
+llama_31_8b,closed_book,Biodiversity of Marine Artificial Structures,27,35,0.771428571
+llama_31_8b,closed_book,Bird Conservation,194,321,0.604361371
+llama_31_8b,closed_book,Butterfly and Moth Conservation,73,115,0.634782609
+llama_31_8b,closed_book,Control of Freshwater Invasive Species,29,50,0.58
+llama_31_8b,closed_book,Farmland Conservation,48,73,0.657534247
+llama_31_8b,closed_book,Forest Conservation,32,50,0.64
+llama_31_8b,closed_book,Grassland Conservation,14,30,0.466666667
+llama_31_8b,closed_book,Management of Captive Animals,20,34,0.588235294
+llama_31_8b,closed_book,Marine Fish Conservation,51,71,0.718309859
+llama_31_8b,closed_book,Marine and Freshwater Mammal Conservation,27,39,0.692307692
+llama_31_8b,closed_book,Marsh and Swamp Conservation,100,181,0.552486188
+llama_31_8b,closed_book,Mediterranean Farmland,41,57,0.719298246
+llama_31_8b,closed_book,Natural Pest Control,14,15,0.933333333
+llama_31_8b,closed_book,Peatland Conservation,34,62,0.548387097
+llama_31_8b,closed_book,Primate Conservation,35,57,0.614035088
+llama_31_8b,closed_book,Reptile Conservation,89,155,0.574193548
+llama_31_8b,closed_book,Shrubland and Heathland Conservation,20,43,0.465116279
+llama_31_8b,closed_book,Soil Fertility,14,19,0.736842105
+llama_31_8b,closed_book,Subtidal Benthic Invertebrate Conservation,49,79,0.620253165
+llama_31_8b,closed_book,Sustainable Aquaculture,9,18,0.5
+llama_31_8b,closed_book,Terrestrial Mammal Conservation,127,188,0.675531915
+llama_31_8b,confused,Amphibian Conservation,83,91,0.912087912
+llama_31_8b,confused,Bat Conservation,45,46,0.97826087
+llama_31_8b,confused,Bee Conservation,35,38,0.921052632
+llama_31_8b,confused,Biodiversity of Marine Artificial Structures,32,35,0.914285714
+llama_31_8b,confused,Bird Conservation,267,321,0.831775701
+llama_31_8b,confused,Butterfly and Moth Conservation,94,115,0.817391304
+llama_31_8b,confused,Control of Freshwater Invasive Species,40,50,0.8
+llama_31_8b,confused,Farmland Conservation,61,73,0.835616438
+llama_31_8b,confused,Forest Conservation,40,50,0.8
+llama_31_8b,confused,Grassland Conservation,26,30,0.866666667
+llama_31_8b,confused,Management of Captive Animals,32,34,0.941176471
+llama_31_8b,confused,Marine Fish Conservation,61,71,0.85915493
+llama_31_8b,confused,Marine and Freshwater Mammal Conservation,30,39,0.769230769
+llama_31_8b,confused,Marsh and Swamp Conservation,161,181,0.889502762
+llama_31_8b,confused,Mediterranean Farmland,53,57,0.929824561
+llama_31_8b,confused,Natural Pest Control,14,15,0.933333333
+llama_31_8b,confused,Peatland Conservation,54,62,0.870967742
+llama_31_8b,confused,Primate Conservation,45,57,0.789473684
+llama_31_8b,confused,Reptile Conservation,133,155,0.858064516
+llama_31_8b,confused,Shrubland and Heathland Conservation,38,43,0.88372093
+llama_31_8b,confused,Soil Fertility,18,19,0.947368421
+llama_31_8b,confused,Subtidal Benthic Invertebrate Conservation,67,79,0.848101266
+llama_31_8b,confused,Sustainable Aquaculture,16,18,0.888888889
+llama_31_8b,confused,Terrestrial Mammal Conservation,162,188,0.861702128
+llama_31_8b,dense_retrieval,Amphibian Conservation,82,91,0.901098901
+llama_31_8b,dense_retrieval,Bat Conservation,37,46,0.804347826
+llama_31_8b,dense_retrieval,Bee Conservation,30,38,0.789473684
+llama_31_8b,dense_retrieval,Biodiversity of Marine Artificial Structures,30,35,0.857142857
+llama_31_8b,dense_retrieval,Bird Conservation,253,321,0.788161994
+llama_31_8b,dense_retrieval,Butterfly and Moth Conservation,73,115,0.634782609
+llama_31_8b,dense_retrieval,Control of Freshwater Invasive Species,43,50,0.86
+llama_31_8b,dense_retrieval,Farmland Conservation,51,73,0.698630137
+llama_31_8b,dense_retrieval,Forest Conservation,40,50,0.8
+llama_31_8b,dense_retrieval,Grassland Conservation,24,30,0.8
+llama_31_8b,dense_retrieval,Management of Captive Animals,28,34,0.823529412
+llama_31_8b,dense_retrieval,Marine Fish Conservation,57,71,0.802816901
+llama_31_8b,dense_retrieval,Marine and Freshwater Mammal Conservation,31,39,0.794871795
+llama_31_8b,dense_retrieval,Marsh and Swamp Conservation,150,181,0.828729282
+llama_31_8b,dense_retrieval,Mediterranean Farmland,50,57,0.877192983
+llama_31_8b,dense_retrieval,Natural Pest Control,12,15,0.8
+llama_31_8b,dense_retrieval,Peatland Conservation,45,62,0.725806452
+llama_31_8b,dense_retrieval,Primate Conservation,40,57,0.701754386
+llama_31_8b,dense_retrieval,Reptile Conservation,102,155,0.658064516
+llama_31_8b,dense_retrieval,Shrubland and Heathland Conservation,33,43,0.767441861
+llama_31_8b,dense_retrieval,Soil Fertility,16,19,0.842105263
+llama_31_8b,dense_retrieval,Subtidal Benthic Invertebrate Conservation,60,79,0.759493671
+llama_31_8b,dense_retrieval,Sustainable Aquaculture,17,18,0.944444444
+llama_31_8b,dense_retrieval,Terrestrial Mammal Conservation,148,188,0.787234043
+llama_31_8b,hybrid_retrieval,Amphibian Conservation,81,91,0.89010989
+llama_31_8b,hybrid_retrieval,Bat Conservation,38,46,0.826086957
+llama_31_8b,hybrid_retrieval,Bee Conservation,33,38,0.868421053
+llama_31_8b,hybrid_retrieval,Biodiversity of Marine Artificial Structures,30,35,0.857142857
+llama_31_8b,hybrid_retrieval,Bird Conservation,251,321,0.781931464
+llama_31_8b,hybrid_retrieval,Butterfly and Moth Conservation,86,115,0.747826087
+llama_31_8b,hybrid_retrieval,Control of Freshwater Invasive Species,44,50,0.88
+llama_31_8b,hybrid_retrieval,Farmland Conservation,56,73,0.767123288
+llama_31_8b,hybrid_retrieval,Forest Conservation,41,50,0.82
+llama_31_8b,hybrid_retrieval,Grassland Conservation,23,30,0.766666667
+llama_31_8b,hybrid_retrieval,Management of Captive Animals,28,34,0.823529412
+llama_31_8b,hybrid_retrieval,Marine Fish Conservation,58,71,0.816901409
+llama_31_8b,hybrid_retrieval,Marine and Freshwater Mammal Conservation,30,39,0.769230769
+llama_31_8b,hybrid_retrieval,Marsh and Swamp Conservation,152,181,0.839779006
+llama_31_8b,hybrid_retrieval,Mediterranean Farmland,49,57,0.859649123
+llama_31_8b,hybrid_retrieval,Natural Pest Control,14,15,0.933333333
+llama_31_8b,hybrid_retrieval,Peatland Conservation,50,62,0.806451613
+llama_31_8b,hybrid_retrieval,Primate Conservation,39,57,0.684210526
+llama_31_8b,hybrid_retrieval,Reptile Conservation,115,155,0.741935484
+llama_31_8b,hybrid_retrieval,Shrubland and Heathland Conservation,32,43,0.744186047
+llama_31_8b,hybrid_retrieval,Soil Fertility,16,19,0.842105263
+llama_31_8b,hybrid_retrieval,Subtidal Benthic Invertebrate Conservation,62,79,0.784810127
+llama_31_8b,hybrid_retrieval,Sustainable Aquaculture,16,18,0.888888889
+llama_31_8b,hybrid_retrieval,Terrestrial Mammal Conservation,151,188,0.803191489
+llama_31_8b,oracle,Amphibian Conservation,87,91,0.956043956
+llama_31_8b,oracle,Bat Conservation,45,46,0.97826087
+llama_31_8b,oracle,Bee Conservation,36,38,0.947368421
+llama_31_8b,oracle,Biodiversity of Marine Artificial Structures,34,35,0.971428571
+llama_31_8b,oracle,Bird Conservation,284,321,0.884735203
+llama_31_8b,oracle,Butterfly and Moth Conservation,99,115,0.860869565
+llama_31_8b,oracle,Control of Freshwater Invasive Species,43,50,0.86
+llama_31_8b,oracle,Farmland Conservation,64,73,0.876712329
+llama_31_8b,oracle,Forest Conservation,43,50,0.86
+llama_31_8b,oracle,Grassland Conservation,29,30,0.966666667
+llama_31_8b,oracle,Management of Captive Animals,32,34,0.941176471
+llama_31_8b,oracle,Marine Fish Conservation,62,71,0.873239437
+llama_31_8b,oracle,Marine and Freshwater Mammal Conservation,32,39,0.820512821
+llama_31_8b,oracle,Marsh and Swamp Conservation,165,181,0.91160221
+llama_31_8b,oracle,Mediterranean Farmland,56,57,0.98245614
+llama_31_8b,oracle,Natural Pest Control,15,15,1
+llama_31_8b,oracle,Peatland Conservation,56,62,0.903225807
+llama_31_8b,oracle,Primate Conservation,50,57,0.877192983
+llama_31_8b,oracle,Reptile Conservation,143,155,0.922580645
+llama_31_8b,oracle,Shrubland and Heathland Conservation,39,43,0.906976744
+llama_31_8b,oracle,Soil Fertility,17,19,0.894736842
+llama_31_8b,oracle,Subtidal Benthic Invertebrate Conservation,68,79,0.860759494
+llama_31_8b,oracle,Sustainable Aquaculture,18,18,1
+llama_31_8b,oracle,Terrestrial Mammal Conservation,170,188,0.904255319
+llama_31_8b,sparse_retrieval,Amphibian Conservation,73,91,0.802197802
+llama_31_8b,sparse_retrieval,Bat Conservation,37,46,0.804347826
+llama_31_8b,sparse_retrieval,Bee Conservation,32,38,0.842105263
+llama_31_8b,sparse_retrieval,Biodiversity of Marine Artificial Structures,31,35,0.885714286
+llama_31_8b,sparse_retrieval,Bird Conservation,223,321,0.69470405
+llama_31_8b,sparse_retrieval,Butterfly and Moth Conservation,80,115,0.695652174
+llama_31_8b,sparse_retrieval,Control of Freshwater Invasive Species,31,50,0.62
+llama_31_8b,sparse_retrieval,Farmland Conservation,56,73,0.767123288
+llama_31_8b,sparse_retrieval,Forest Conservation,28,50,0.56
+llama_31_8b,sparse_retrieval,Grassland Conservation,24,30,0.8
+llama_31_8b,sparse_retrieval,Management of Captive Animals,24,34,0.705882353
+llama_31_8b,sparse_retrieval,Marine Fish Conservation,54,71,0.76056338
+llama_31_8b,sparse_retrieval,Marine and Freshwater Mammal Conservation,29,39,0.743589744
+llama_31_8b,sparse_retrieval,Marsh and Swamp Conservation,141,181,0.779005525
+llama_31_8b,sparse_retrieval,Mediterranean Farmland,42,57,0.736842105
+llama_31_8b,sparse_retrieval,Natural Pest Control,13,15,0.866666667
+llama_31_8b,sparse_retrieval,Peatland Conservation,47,62,0.758064516
+llama_31_8b,sparse_retrieval,Primate Conservation,43,57,0.754385965
+llama_31_8b,sparse_retrieval,Reptile Conservation,104,155,0.670967742
+llama_31_8b,sparse_retrieval,Shrubland and Heathland Conservation,32,43,0.744186047
+llama_31_8b,sparse_retrieval,Soil Fertility,14,19,0.736842105
+llama_31_8b,sparse_retrieval,Subtidal Benthic Invertebrate Conservation,63,79,0.797468354
+llama_31_8b,sparse_retrieval,Sustainable Aquaculture,15,18,0.833333333
+llama_31_8b,sparse_retrieval,Terrestrial Mammal Conservation,144,188,0.765957447
+mixtral_822,closed_book,Amphibian Conservation,62,91,0.681318681
+mixtral_822,closed_book,Bat Conservation,36,46,0.782608696
+mixtral_822,closed_book,Bee Conservation,25,38,0.657894737
+mixtral_822,closed_book,Biodiversity of Marine Artificial Structures,33,35,0.942857143
+mixtral_822,closed_book,Bird Conservation,194,321,0.604361371
+mixtral_822,closed_book,Butterfly and Moth Conservation,71,115,0.617391304
+mixtral_822,closed_book,Control of Freshwater Invasive Species,29,50,0.58
+mixtral_822,closed_book,Farmland Conservation,49,73,0.671232877
+mixtral_822,closed_book,Forest Conservation,29,50,0.58
+mixtral_822,closed_book,Grassland Conservation,18,30,0.6
+mixtral_822,closed_book,Management of Captive Animals,24,34,0.705882353
+mixtral_822,closed_book,Marine Fish Conservation,47,71,0.661971831
+mixtral_822,closed_book,Marine and Freshwater Mammal Conservation,30,39,0.769230769
+mixtral_822,closed_book,Marsh and Swamp Conservation,107,181,0.591160221
+mixtral_822,closed_book,Mediterranean Farmland,39,57,0.684210526
+mixtral_822,closed_book,Natural Pest Control,13,15,0.866666667
+mixtral_822,closed_book,Peatland Conservation,35,62,0.564516129
+mixtral_822,closed_book,Primate Conservation,40,57,0.701754386
+mixtral_822,closed_book,Reptile Conservation,90,155,0.580645161
+mixtral_822,closed_book,Shrubland and Heathland Conservation,24,43,0.558139535
+mixtral_822,closed_book,Soil Fertility,14,19,0.736842105
+mixtral_822,closed_book,Subtidal Benthic Invertebrate Conservation,53,79,0.670886076
+mixtral_822,closed_book,Sustainable Aquaculture,13,18,0.722222222
+mixtral_822,closed_book,Terrestrial Mammal Conservation,126,188,0.670212766
+mixtral_822,confused,Amphibian Conservation,82,91,0.901098901
+mixtral_822,confused,Bat Conservation,45,46,0.97826087
+mixtral_822,confused,Bee Conservation,37,38,0.973684211
+mixtral_822,confused,Biodiversity of Marine Artificial Structures,32,35,0.914285714
+mixtral_822,confused,Bird Conservation,293,321,0.912772586
+mixtral_822,confused,Butterfly and Moth Conservation,102,115,0.886956522
+mixtral_822,confused,Control of Freshwater Invasive Species,44,50,0.88
+mixtral_822,confused,Farmland Conservation,66,73,0.904109589
+mixtral_822,confused,Forest Conservation,46,50,0.92
+mixtral_822,confused,Grassland Conservation,28,30,0.933333333
+mixtral_822,confused,Management of Captive Animals,32,34,0.941176471
+mixtral_822,confused,Marine Fish Conservation,62,71,0.873239437
+mixtral_822,confused,Marine and Freshwater Mammal Conservation,31,39,0.794871795
+mixtral_822,confused,Marsh and Swamp Conservation,165,181,0.91160221
+mixtral_822,confused,Mediterranean Farmland,53,57,0.929824561
+mixtral_822,confused,Natural Pest Control,15,15,1
+mixtral_822,confused,Peatland Conservation,56,62,0.903225807
+mixtral_822,confused,Primate Conservation,49,57,0.859649123
+mixtral_822,confused,Reptile Conservation,134,155,0.864516129
+mixtral_822,confused,Shrubland and Heathland Conservation,41,43,0.953488372
+mixtral_822,confused,Soil Fertility,17,19,0.894736842
+mixtral_822,confused,Subtidal Benthic Invertebrate Conservation,69,79,0.873417722
+mixtral_822,confused,Sustainable Aquaculture,17,18,0.944444444
+mixtral_822,confused,Terrestrial Mammal Conservation,166,188,0.882978723
+mixtral_822,dense_retrieval,Amphibian Conservation,80,91,0.879120879
+mixtral_822,dense_retrieval,Bat Conservation,38,46,0.826086957
+mixtral_822,dense_retrieval,Bee Conservation,32,38,0.842105263
+mixtral_822,dense_retrieval,Biodiversity of Marine Artificial Structures,28,35,0.8
+mixtral_822,dense_retrieval,Bird Conservation,275,321,0.856697819
+mixtral_822,dense_retrieval,Butterfly and Moth Conservation,80,115,0.695652174
+mixtral_822,dense_retrieval,Control of Freshwater Invasive Species,36,50,0.72
+mixtral_822,dense_retrieval,Farmland Conservation,57,73,0.780821918
+mixtral_822,dense_retrieval,Forest Conservation,42,50,0.84
+mixtral_822,dense_retrieval,Grassland Conservation,25,30,0.833333333
+mixtral_822,dense_retrieval,Management of Captive Animals,31,34,0.911764706
+mixtral_822,dense_retrieval,Marine Fish Conservation,53,71,0.746478873
+mixtral_822,dense_retrieval,Marine and Freshwater Mammal Conservation,31,39,0.794871795
+mixtral_822,dense_retrieval,Marsh and Swamp Conservation,142,181,0.784530387
+mixtral_822,dense_retrieval,Mediterranean Farmland,46,57,0.807017544
+mixtral_822,dense_retrieval,Natural Pest Control,13,15,0.866666667
+mixtral_822,dense_retrieval,Peatland Conservation,49,62,0.790322581
+mixtral_822,dense_retrieval,Primate Conservation,45,57,0.789473684
+mixtral_822,dense_retrieval,Reptile Conservation,96,155,0.619354839
+mixtral_822,dense_retrieval,Shrubland and Heathland Conservation,36,43,0.837209302
+mixtral_822,dense_retrieval,Soil Fertility,14,19,0.736842105
+mixtral_822,dense_retrieval,Subtidal Benthic Invertebrate Conservation,64,79,0.810126582
+mixtral_822,dense_retrieval,Sustainable Aquaculture,16,18,0.888888889
+mixtral_822,dense_retrieval,Terrestrial Mammal Conservation,149,188,0.792553192
+mixtral_822,hybrid_retrieval,Amphibian Conservation,81,91,0.89010989
+mixtral_822,hybrid_retrieval,Bat Conservation,39,46,0.847826087
+mixtral_822,hybrid_retrieval,Bee Conservation,35,38,0.921052632
+mixtral_822,hybrid_retrieval,Biodiversity of Marine Artificial Structures,31,35,0.885714286
+mixtral_822,hybrid_retrieval,Bird Conservation,269,321,0.838006231
+mixtral_822,hybrid_retrieval,Butterfly and Moth Conservation,93,115,0.808695652
+mixtral_822,hybrid_retrieval,Control of Freshwater Invasive Species,37,50,0.74
+mixtral_822,hybrid_retrieval,Farmland Conservation,64,73,0.876712329
+mixtral_822,hybrid_retrieval,Forest Conservation,41,50,0.82
+mixtral_822,hybrid_retrieval,Grassland Conservation,26,30,0.866666667
+mixtral_822,hybrid_retrieval,Management of Captive Animals,30,34,0.882352941
+mixtral_822,hybrid_retrieval,Marine Fish Conservation,54,71,0.76056338
+mixtral_822,hybrid_retrieval,Marine and Freshwater Mammal Conservation,30,39,0.769230769
+mixtral_822,hybrid_retrieval,Marsh and Swamp Conservation,156,181,0.861878453
+mixtral_822,hybrid_retrieval,Mediterranean Farmland,49,57,0.859649123
+mixtral_822,hybrid_retrieval,Natural Pest Control,13,15,0.866666667
+mixtral_822,hybrid_retrieval,Peatland Conservation,52,62,0.838709677
+mixtral_822,hybrid_retrieval,Primate Conservation,44,57,0.771929825
+mixtral_822,hybrid_retrieval,Reptile Conservation,119,155,0.767741936
+mixtral_822,hybrid_retrieval,Shrubland and Heathland Conservation,35,43,0.813953488
+mixtral_822,hybrid_retrieval,Soil Fertility,14,19,0.736842105
+mixtral_822,hybrid_retrieval,Subtidal Benthic Invertebrate Conservation,67,79,0.848101266
+mixtral_822,hybrid_retrieval,Sustainable Aquaculture,16,18,0.888888889
+mixtral_822,hybrid_retrieval,Terrestrial Mammal Conservation,156,188,0.829787234
+mixtral_822,oracle,Amphibian Conservation,85,91,0.934065934
+mixtral_822,oracle,Bat Conservation,45,46,0.97826087
+mixtral_822,oracle,Bee Conservation,36,38,0.947368421
+mixtral_822,oracle,Biodiversity of Marine Artificial Structures,33,35,0.942857143
+mixtral_822,oracle,Bird Conservation,289,321,0.900311527
+mixtral_822,oracle,Butterfly and Moth Conservation,104,115,0.904347826
+mixtral_822,oracle,Control of Freshwater Invasive Species,44,50,0.88
+mixtral_822,oracle,Farmland Conservation,70,73,0.95890411
+mixtral_822,oracle,Forest Conservation,44,50,0.88
+mixtral_822,oracle,Grassland Conservation,29,30,0.966666667
+mixtral_822,oracle,Management of Captive Animals,33,34,0.970588235
+mixtral_822,oracle,Marine Fish Conservation,63,71,0.887323944
+mixtral_822,oracle,Marine and Freshwater Mammal Conservation,31,39,0.794871795
+mixtral_822,oracle,Marsh and Swamp Conservation,166,181,0.917127072
+mixtral_822,oracle,Mediterranean Farmland,56,57,0.98245614
+mixtral_822,oracle,Natural Pest Control,15,15,1
+mixtral_822,oracle,Peatland Conservation,58,62,0.935483871
+mixtral_822,oracle,Primate Conservation,50,57,0.877192983
+mixtral_822,oracle,Reptile Conservation,140,155,0.903225807
+mixtral_822,oracle,Shrubland and Heathland Conservation,40,43,0.930232558
+mixtral_822,oracle,Soil Fertility,19,19,1
+mixtral_822,oracle,Subtidal Benthic Invertebrate Conservation,70,79,0.886075949
+mixtral_822,oracle,Sustainable Aquaculture,18,18,1
+mixtral_822,oracle,Terrestrial Mammal Conservation,165,188,0.877659575
+mixtral_822,sparse_retrieval,Amphibian Conservation,67,91,0.736263736
+mixtral_822,sparse_retrieval,Bat Conservation,40,46,0.869565217
+mixtral_822,sparse_retrieval,Bee Conservation,32,38,0.842105263
+mixtral_822,sparse_retrieval,Biodiversity of Marine Artificial Structures,30,35,0.857142857
+mixtral_822,sparse_retrieval,Bird Conservation,229,321,0.713395639
+mixtral_822,sparse_retrieval,Butterfly and Moth Conservation,85,115,0.739130435
+mixtral_822,sparse_retrieval,Control of Freshwater Invasive Species,28,50,0.56
+mixtral_822,sparse_retrieval,Farmland Conservation,58,73,0.794520548
+mixtral_822,sparse_retrieval,Forest Conservation,33,50,0.66
+mixtral_822,sparse_retrieval,Grassland Conservation,26,30,0.866666667
+mixtral_822,sparse_retrieval,Management of Captive Animals,26,34,0.764705882
+mixtral_822,sparse_retrieval,Marine Fish Conservation,54,71,0.76056338
+mixtral_822,sparse_retrieval,Marine and Freshwater Mammal Conservation,29,39,0.743589744
+mixtral_822,sparse_retrieval,Marsh and Swamp Conservation,147,181,0.812154696
+mixtral_822,sparse_retrieval,Mediterranean Farmland,43,57,0.754385965
+mixtral_822,sparse_retrieval,Natural Pest Control,13,15,0.866666667
+mixtral_822,sparse_retrieval,Peatland Conservation,46,62,0.741935484
+mixtral_822,sparse_retrieval,Primate Conservation,45,57,0.789473684
+mixtral_822,sparse_retrieval,Reptile Conservation,105,155,0.677419355
+mixtral_822,sparse_retrieval,Shrubland and Heathland Conservation,32,43,0.744186047
+mixtral_822,sparse_retrieval,Soil Fertility,13,19,0.684210526
+mixtral_822,sparse_retrieval,Subtidal Benthic Invertebrate Conservation,62,79,0.784810127
+mixtral_822,sparse_retrieval,Sustainable Aquaculture,13,18,0.722222222
+mixtral_822,sparse_retrieval,Terrestrial Mammal Conservation,149,188,0.792553192
