@@ -1,8 +1,17 @@
-library(data.table)
-library(tidyverse)
+############ install instructions ###########
+#install.packages(c('data.table','tidyverse','MuMIn','car','here'))
 
-response <- fread(choose.files()) #humanresponses.csv
-answers <- fread(choose.files()) #correctanswers.csv
+########### load libraries ############
+# library(data.table)
+# library(tidyverse)
+# library(AICc)
+# library(Anova)
+# library(here)
+
+setwd(here())
+
+response <- fread("Data/humanresponses.csv")
+answers <- fread("Data/correctanswers.csv")
 
 head(response)
 head(answers)
@@ -54,9 +63,9 @@ quantile(results.part.all$correct)
 ############ llm comparisons ##################
 ###############################################
 
-llmresponses <- fread(choose.files()) #llmresponses.csv
+llmresponses <- fread("Data/llmresponses.csv")
 alldata_short_45 <- alldata[,c("Participant","Question","correct")]
-questionnumbers <- fread(choose.files()) #questionnumbers.csv
+questionnumbers <- fread("Data/questionnumbers.csv")
 
 llmresponses_hy <- merge(llmresponses[Method=="hybrid_retrieval"],questionnumbers,by.x="Question",by.y="question") #add question numbers to data with question title
 
@@ -95,12 +104,12 @@ permutation_sign_test <- function(llm_data, human_data, num_permutations = 10000
     random_human <- sapply(1:num_questions, function(x) sample(human_data[x, ], 1))
     
     # Calculate plus, equal, and minus counts for the shuffled data
-    plus_count_perm <- rep(1,sum((random_human == 1) & (llm_data == 0))) # Human better
-    minus_count_perm <- rep(-1,sum((random_human == 0) & (llm_data == 1))) # LLM better
-    equal_count_perm <- rep(0,sum((random_human == 1) & (llm_data == 1)) + sum((random_human == 0) & (llm_data == 0))) #equal
-      
+    minus_count_perm <- rep(-1,sum((random_human == 1) & (llm_data == 0))) # Human better
+    plus_count_perm <- rep(1,sum((random_human == 0) & (llm_data == 1))) # LLM better
+    #equal adjusted for 25% chance of equal draws
+    equal_count_perm <- rep(0,sum((random_human == 1) & (llm_data == 1)) + sum((random_human == 0) & (llm_data == 0)) - sum(sample(c(0,1), num_questions, replace = TRUE, prob = c(0.75,0.25)))) 
     # Permutation statistic
-    D_perm[i] <- mean(c(plus_count_perm, minus_count_perm, equal_count_perm))
+    D_perm[i] <- sum(c(plus_count_perm, minus_count_perm, equal_count_perm))
   }
   
   # Step 3: Calculate p-value
@@ -158,8 +167,95 @@ gc() ### clear memory
 alltestsdat <- data.table(do.call(rbind,alltests))
 
 alltestsdat$p_valueadj <- p.adjust(alltestsdat$p_value, method = "holm")
+alltestsdat$LLM <- colnames(llm_responses)
 
-#write.csv(alltestsdat,"permtestresults_1mil.csv")
+#write.csv(alltestsdat,"permtestresults_humanexpert.csv")
+
+##############################################
+####### random guessing test #################
+##############################################
+
+# Function to perform the permutation test for a single LLM against random guessing
+permutation_sign_test_random <- function(llm_data, human_data, num_permutations = 10000) {
+  # Step 1: Set observed difference to zero, which would be null hypothesis that LLM and human expert are equally good
+  D_ref <- 0
+  
+  # Step 2: Permutation test
+  D_perm <- numeric(num_permutations)  # Store permutation statistics
+  
+  for (i in 1:num_permutations) {
+    # Randomly sample a human expert for each question
+    random_human <- sample(c(0,1), num_questions, replace = TRUE, prob = c(0.75,0.25))
+    
+    # Calculate plus, equal, and minus counts for the shuffled data
+    minus_count_perm <- rep(-1,sum((random_human == 1) & (llm_data == 0))) # Human better
+    plus_count_perm <- rep(1,sum((random_human == 0) & (llm_data == 1))) # LLM better
+    #equal adjusted for 25% chance of equal draws
+    equal_count_perm <- rep(0,pmax(sum((random_human == 1) & (llm_data == 1)) + sum((random_human == 0) & (llm_data == 0))- sum(sample(c(0,1), num_questions, replace = TRUE, prob = c(0.75,0.25)))),0) 
+    
+    # Permutation statistic
+    D_perm[i] <- sum(c(plus_count_perm, minus_count_perm, equal_count_perm))
+  }
+  
+  # Step 3: Calculate p-value
+  p_value <- 1-mean(abs(D_perm)> D_ref)
+  
+  mean_perm <- mean(D_perm)  # Mean of the permutation distribution
+  sd_perm <- sd(D_perm)      # Standard deviation of the permutation distribution
+  ci_lower <- quantile(D_perm, 0.025)  # 2.5% quantile
+  ci_upper <- quantile(D_perm, 0.975)  # 97.5% quantile
+  
+  # Return all relevant statistics
+  return(list(p_value = p_value, 
+              D_perm = D_perm,
+              mean_perm = mean_perm,
+              sd_perm = sd_perm,
+              ci_lower = ci_lower,
+              ci_upper = ci_upper))
+  
+}
+
+# repeat for each LLM and perform the permutation test
+repeattest_random <- function(llm_number){
+  test_result <- list()
+  llm_data <- llm_responses[, llm_number]
+  
+  # Run permutation sign test
+  test_result <- permutation_sign_test_random(llm_data, human_responses)
+  
+  # Store results
+  p_value <- test_result$p_value
+  D_perm_mean <- test_result$mean_perm
+  D_perm_sd <- test_result$sd_perm
+  ci_lower <- test_result$ci_lower
+  ci_upper <- test_result$ci_upper 
+  
+  return(list(cbind(p_value,D_perm_mean,D_perm_sd,ci_lower,ci_upper)))
+}
+
+#####################################
+# Output results - run in parallel on windows laptop
+library(parallel)
+detectCores()
+ncores = 12 ### put in the number of cores 
+c1 <- makeCluster(ncores) ###create a cluster of cores
+clusterExport(c1,c('llm_responses','num_questions','human_responses','permutation_sign_test_random')) ### import the data
+
+system.time(
+  alltests_rand <- parSapplyLB(c1,1:num_llms,repeattest_random) #### time it with system.time if desired and run in parallel with load balancing (LB)
+)
+
+stopCluster(c1) ### make sure to stop cluster at the end
+gc() ### clear memory
+
+# Output results
+alltestsdat_rand <- data.table(do.call(rbind,alltests_rand))
+
+alltestsdat_rand$p_valueadj <- p.adjust(alltestsdat_rand$p_value, method = "holm")
+alltestsdat_rand$LLM <- colnames(llm_responses)
+
+#write.csv(alltestsdat_rand,"permtestresults_randomguesser.csv")
+
 
 
 ###############################################
@@ -210,7 +306,7 @@ quantile(ret.results.part.all$correct)
 ############ llm comparisons ##############
 ###########################################
 
-retr_strat_response <- fread(choose.files()) #llm_survey_retrieval_info.csv
+retr_strat_response <- fread("Data/llm_survey_retrieval_info.csv")
 retr_strat_response #llms
 retrievalresponse_45 #humans
 
@@ -246,12 +342,12 @@ permutation_sign_test_retr <- function(retr_data, human_data_retr, num_permutati
     random_human <- sapply(1:num_questions, function(x) sample(human_data_retr[x, ], 1))
     
     # Calculate plus, equal and minus counts for the shuffled data
-    plus_count_perm <- rep(1,sum((random_human == 1) & (retr_data == 0))) # Human better
-    minus_count_perm <- rep(-1,sum((random_human == 0) & (retr_data == 1))) # LLM better
+    minus_count_perm <- rep(-1,sum((random_human == 1) & (retr_data == 0))) # Human better
+    plus_count_perm <- rep(1,sum((random_human == 0) & (retr_data == 1))) # LLM better
     equal_count_perm <- rep(0,sum((random_human == 1) & (retr_data == 1)) + sum((random_human == 0) & (retr_data == 0))) #equal
     
     # Permutation statistic
-    D_perm[i] <- mean(c(plus_count_perm, minus_count_perm, equal_count_perm))
+    D_perm[i] <- sum(c(plus_count_perm, minus_count_perm, equal_count_perm))
   }
   
   # Step 3: Calculate p-value
@@ -309,8 +405,9 @@ gc() ### clear memory
 alltestsdat_retr <- data.table(do.call(rbind,alltests_retr))
 
 alltestsdat_retr$p_valueadj <- p.adjust(alltestsdat_retr$p_value, method = "holm")
+alltestsdat_retr$method <- colnames(retr_responses)
 
-#write.csv(alltestsdat_retr,"permtestresults_retr_1mil.csv")
+write.csv(alltestsdat_retr,"permtestresults_retrieval_humanexperts.csv")
 
 
 
