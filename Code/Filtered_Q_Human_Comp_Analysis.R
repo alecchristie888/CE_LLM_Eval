@@ -1,12 +1,12 @@
 ############ install instructions ###########
-#install.packages(c('data.table','tidyverse','MuMIn','car','here'))
+#install.packages(c('data.table','tidyverse','MuMIn','car','here','AICc','Anova'))
 
 ########### load libraries ############
-# library(data.table)
-# library(tidyverse)
-# library(AICc)
-# library(Anova)
-# library(here)
+library(data.table)
+library(tidyverse)
+library(AICc)
+library(Anova)
+library(here)
 
 setwd(here())
 
@@ -407,7 +407,7 @@ alltestsdat_retr <- data.table(do.call(rbind,alltests_retr))
 alltestsdat_retr$p_valueadj <- p.adjust(alltestsdat_retr$p_value, method = "holm")
 alltestsdat_retr$method <- colnames(retr_responses)
 
-write.csv(alltestsdat_retr,"permtestresults_retrieval_humanexperts.csv")
+#write.csv(alltestsdat_retr,"permtestresults_retrieval_humanexperts.csv")
 
 
 

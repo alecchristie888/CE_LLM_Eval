@@ -1,3 +1,7 @@
+############ install instructions ###########
+install.packages(c('data.table','lme4','MuMIn','DHARMa','ggplot2','here','emmeans','glm2','car'))
+
+########### load libraries ############
 library(data.table)
 library(lme4)
 library(MuMIn)
@@ -7,11 +11,13 @@ library(car)
 library(glm2)
 library(emmeans)
 
+setwd(here())
+
 ##############################################################################################################################
 ############################## LLM performance on questions across synopses ##################################################
 ##############################################################################################################################
 
-synopdata <- fread(choose.files())  #synopsesdata.csv
+synopdata <- fread("Data/synopsesdata.csv")
 
 synopdatahr <- synopdata
 binarydata <- list()
@@ -129,15 +135,21 @@ ordersyn <- data.table(allcombs %>%
 ordersynnames <- ordersyn[rev(order(mean)),Synopsis]
 
 allcombs$Synopsis <- factor(allcombs$Synopsis,levels=ordersynnames)
+allcombs[Category=="closed_book",Category:="Closed Book"]
+allcombs[Category=="hybrid_retrieval",Category:="Hybrid Retrieval"]
+allcombs[Category=="oracle",Category:="Oracle"]
+allcombs[Category=="confused",Category:="Confused"]
+allcombs[Category=="sparse_retrieval",Category:="Sparse Retrieval"]
+allcombs[Category=="dense_retrieval",Category:="Dense Retrieval"]
 
-allcombs_cb_hy_or <- allcombs[Category=="closed_book"|Category=="hybrid_retrieval"|Category=="oracle"]
+allcombs_cb_hy_or <- allcombs[Category=="Closed Book"|Category=="Hybrid Retrieval"|Category=="Oracle"]
 allcombs_cb_hy_or <- allcombs_cb_hy_or[order(Synopsis)]
 
 nrow(allcombs_cb_hy_or)/length(unique(allcombs_cb_hy_or$Synopsis))
 allcombs_cb_hy_or_first <- allcombs_cb_hy_or[1:(30*11)]
 allcombs_cb_hy_or_sec <- allcombs_cb_hy_or[(1+(30*11)):nrow(allcombs_cb_hy_or)]
 
-allcombs_cf_sp_de <- allcombs[Category=="confused"|Category=="sparse_retrieval"|Category=="dense_retrieval"]
+allcombs_cf_sp_de <- allcombs[Category=="Confused"|Category=="Sparse Retrieval"|Category=="Dense Retrieval"]
 allcombs_cf_sp_de <- allcombs_cf_sp_de[order(Synopsis)]
 
 nrow(allcombs_cf_sp_de)/length(unique(allcombs_cf_sp_de$Synopsis))
@@ -153,6 +165,7 @@ ggplot(aes(y=est,x=Model,colour=Model),data=allcombs_cb_hy_or_first)+
   theme(panel.grid.major.x = element_blank(),axis.text.x = element_blank())
 
 #ggsave("cb_hy_or_1.png",height=15,width=30,units="cm")
+#ggsave("cb_hy_or_1.svg",height=15,width=30,units="cm",device="svg")
 
 ggplot(aes(y=est,x=Model,colour=Model),data=allcombs_cb_hy_or_sec)+
   geom_point()+
@@ -163,6 +176,7 @@ ggplot(aes(y=est,x=Model,colour=Model),data=allcombs_cb_hy_or_sec)+
   theme(panel.grid.major.x = element_blank(),axis.text.x = element_blank())
 
 #ggsave("cb_hy_or_2.png",height=15,width=30,units="cm")
+#ggsave("cb_hy_or_2.svg",height=15,width=30,units="cm",device="svg")
 
 
 ggplot(aes(y=est,x=Model,colour=Model),data=allcombs_cf_sp_de_first)+
@@ -174,6 +188,7 @@ ggplot(aes(y=est,x=Model,colour=Model),data=allcombs_cf_sp_de_first)+
   theme(panel.grid.major.x = element_blank(),axis.text.x = element_blank())
 
 #ggsave("cf_sp_de_1.png",height=15,width=30,units="cm")
+#ggsave("cf_sp_de_1.svg",height=15,width=30,units="cm",device="svg")
 
 ggplot(aes(y=est,x=Model,colour=Model),data=allcombs_cf_sp_de_sec)+
   geom_point()+
@@ -184,6 +199,7 @@ ggplot(aes(y=est,x=Model,colour=Model),data=allcombs_cf_sp_de_sec)+
   theme(panel.grid.major.x = element_blank(),axis.text.x = element_blank())
 
 #ggsave("cf_sp_de_2.png",height=15,width=30,units="cm")
+#ggsave("cf_sp_de_2.png",height=15,width=30,units="cm",device="svg")
 
 
 EMMs_models <- emmeans(mod2,~Model,type="response")
@@ -211,7 +227,7 @@ str(summary(mod2))
 ############################## LLM performance on retrieval across synopses ##################################################
 ##############################################################################################################################
 
-retr_data <- fread(choose.files()) #llm_synopses_retrieval_info.csv
+retr_data <- fread("Data/llm_synopses_retrieval_info.csv")
 
 head(retr_data)
 
@@ -359,8 +375,6 @@ length(unique(retr_allcombs$Synopsis))
 retr_allcombs_first <- retr_allcombs[1:36,]
 retr_allcombs_sec <- retr_allcombs[37:72,]
 
-retrievaldata
-
 ggplot(aes(y=est,x=Strategy,colour=Strategy),data=retr_allcombs_first)+
   geom_point()+
   geom_errorbar(aes(ymin = lwr, ymax = upr))+
@@ -371,6 +385,7 @@ ggplot(aes(y=est,x=Strategy,colour=Strategy),data=retr_allcombs_first)+
         axis.text.x = element_text(angle=45,vjust=1,hjust=1))
 
 #ggsave("retr_results1.png",height=15,width=30,units="cm")
+#ggsave("retr_results1.svg",height=15,width=30,units="cm",device="svg")
 
 ggplot(aes(y=est,x=Strategy,colour=Strategy),data=retr_allcombs_sec)+
   geom_point()+
@@ -381,6 +396,7 @@ ggplot(aes(y=est,x=Strategy,colour=Strategy),data=retr_allcombs_sec)+
   theme(panel.grid.major.x = element_blank(),legend.position="none",
         axis.text.x = element_text(angle=45,vjust=1,hjust=1))
 #ggsave("retr_results2.png",height=15,width=30,units="cm")
+#ggsave("retr_results2.svg",height=15,width=30,units="cm",device="svg")
 
 
 EMMs_strat <- emmeans(retr_mod2,~Strategy,type="response")
